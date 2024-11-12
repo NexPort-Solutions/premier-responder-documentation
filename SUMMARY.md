@@ -5,6 +5,7 @@
 ## Troubleshooting
 
 * [Troubleshooting Activation of Premier Responder](troubleshooting/troubleshooting-activation-of-premier-responder.md)
+* [Troubleshooting Database Connectivity Issues in Premier Responder](troubleshooting/troubleshooting-database-connectivity-issues-in-premier-responder.md)
 
 ## End User Documentation
 
