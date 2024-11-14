@@ -5,16 +5,16 @@
 # Opening a Report
 
 The **Case Report** tab is opened from the Premier Responder Supervisor
-window [**QA Cases** tab](Case%20Review.htm).  On the **Case Report**
+window [**QA Cases** tab](Case Review.md).  On the **Case Report**
 tab, the formatted case report appears in a text box with limited
 editing functionality.  This is for review and evaluation purposes. 
 Selecting the **Grade** toolbar button opens the [**Grade Call**
-tab](Case%20Eval.htm) which is used to QA the call.  The **Recordings**
+tab](Case Eval.md) which is used to QA the call.  The **Recordings**
 toolbar button is used to open the [Call
-Recordings](Call%20Recordings.htm) tab, which requires the VPI Empower
+Recordings](Call Recordings.md) tab, which requires the VPI Empower
 communications recording and quality improvement software.  To close the
 **Case Report** tab and return to the [**QA Cases**
-tab](Case%20Review.htm), select the **Case Report** tab **File - Close**
+tab](Case Review.md), select the **Case Report** tab **File - Close**
 menu item or the **X** toolbar button.
 
 <figure><img src=".gitbook/assets/Case Reports_files/image004.png" alt=""><figcaption></figcaption></figure> 

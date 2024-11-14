@@ -5,10 +5,10 @@
 The NICE **Call Recordings** screen requires the NICE Inform recording
 system, including the NICE Inform codec\'s, and user account credentials
 which are configured in the [NICE Interface configuration
-screen](NICE%20Interface%20Settings.htm).  It is opened from either the
-[Premier Responder Supervisor](911Adviser%20Supervisor.htm) main window
+screen](NICE Interface Settings.md).  It is opened from either the
+[Premier Responder Supervisor](911Adviser Supervisor.md) main window
 with the **Tools - Call Recordings** menu item or from the [Case
-Reports](Case%20Reports.htm) screen using the **Recordings** toolbar
+Reports](Case Reports.md) screen using the **Recordings** toolbar
 button.
 
 # Searching for Recordings

@@ -23,10 +23,10 @@ case, refreshing the case list, and pre-selecting a call type.
 The functions that are available from the Premier Responder Call-Taker
 component are found in the following topics:
 
--   [Log In](Logging%20In.htm)
--   [Log Out](Logging%20Out.htm)
--   [References](Reference%20Tools.htm)
--   [Entering Calls](Recording%20Calls.htm)
+-   [Log In](Logging In.md)
+-   [Log Out](Logging Out.md)
+-   [References](Reference Tools.md)
+-   [Entering Calls](Recording Calls.md)
 
 [Return to Premier Responder Emergency Dispatch
-Software](Premier%20Responder.htm)
+Software](Premier Responder.md)

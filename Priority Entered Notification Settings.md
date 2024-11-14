@@ -7,8 +7,8 @@ Settings** list on the **Premier ResponderAdministrator Settings** tab
 displays the following settings:
 
 -   **Call Type**: Indicates the [call
-    type](All%20Caller%20Questions.htm) for which the settings apply.
--   **Priority Level**: Indicates the minimum [priority](Priorities.htm)
+    type](All Caller Questions.md) for which the settings apply.
+-   **Priority Level**: Indicates the minimum [priority](Priorities.md)
     which will cause the notification to appear.
 -   **Message**: Message that will appear in the dialog window.
 -   **Flashing Notification**: When checked, priority status bar panel

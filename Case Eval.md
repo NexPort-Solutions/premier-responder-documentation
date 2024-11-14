@@ -8,7 +8,7 @@ Case evaluation is implemented on the **Grade Call** tab of the Premier
 Responder Supervisor window.  It includes editing functionality for
 creating grade sheets and also scoring functionality for grading calls. 
 To open the **Grade Call** tab, select the the **Grade** toolbar button
-on the [Case Report tab](Case%20Reports.htm).  The information in the
+on the [Case Report tab](Case Reports.md).  The information in the
 **Case Evaluation** header is automatically filled in.  To close the
 **Grade Call** tab, select the **X** toolbar button.  Note that
 evaluation changes are automatically saved and are reloaded upon

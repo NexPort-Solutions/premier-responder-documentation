@@ -5,7 +5,7 @@
 Selecting **Transfer Call** from the **Configuration Settings** list on
 the **Premier Responder** **Administrator - Settings** tab displays
 controls used to manage locations where a call may be transferred (see
-[Transfer button](Starting%20a%20Case.htm)):
+[Transfer button](Starting a Case.md)):
 
 -   **Transfer Call To**: text box used to enter location description.
 -   **Location Type**: drop down with *local position*, *another

@@ -6,9 +6,9 @@
 
 The Premier Responder Supervisor main window consists of a menu bar and
 status bar.  From the **Tools** sub menu the [Email
-Alerts](Email%20Alert.htm), [Case Review](Case%20Review.htm), [Online
-Stations](Online%20Stations.htm) and [Call
-Recordings](Call%20Recordings.htm) utilities are accessed.  These open
+Alerts](Email Alert.md), [Case Review](Case Review.md), [Online
+Stations](Online Stations.md) and [Call
+Recordings](Call Recordings.md) utilities are accessed.  These open
 on tabs within the main window.  The currently logged in user appears on
 the left panel of the status bar.
 
@@ -19,11 +19,11 @@ the left panel of the status bar.
 The tasks/features that are available from the Premier Responder
 Supervisor component are as follows:
 
--   [Logging In](Logging%20In.htm)
--   [Email Alerts](Email%20Alert.htm)
--   [Reviewing Calls](Reviewing%20Calls.htm)
--   [Monitoring Calls](Monitoring%20Calls.htm)
--   [Logging Out](Logging%20Out.htm)
+-   [Logging In](Logging In.md)
+-   [Email Alerts](Email Alert.md)
+-   [Reviewing Calls](Reviewing Calls.md)
+-   [Monitoring Calls](Monitoring Calls.md)
+-   [Logging Out](Logging Out.md)
 
 [Return to Premier Responder Emergency Dispatch
-Software](Premier%20Responder.htm)
+Software](Premier Responder.md)

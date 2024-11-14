@@ -7,18 +7,18 @@ the **Premier Responder** **Administrator - Settings** tab displays the
 following settings:
 
 -   **Show Recent Calls**: When checked, [Recent
-    Calls](Ending%20a%20Case.htm) list appears on Premier Responder
+    Calls](Ending a Case.md) list appears on Premier Responder
     Calltaker main window.
 -   **Timeout**: Indicates the maximum time to wait for recent calls
     query to complete.
 -   **Enable Continue**: When checked, [allows calls appearing in the
-    Recent Calls list to be updated](Update%20Case.htm).
+    Recent Calls list to be updated](Update Case.md).
 -   **Enable View**: When checked, [allows calls appearing in the Recent
-    Calls list to be viewed](Ending%20a%20Case.htm).
+    Calls list to be viewed](Ending a Case.md).
 -   **Call History**: Specifies how much of call history to show in
-    [Recent Calls](Ending%20a%20Case.htm) list.
+    [Recent Calls](Ending a Case.md) list.
 -   **Column \#**: When checked, the column appears in the [Recent
-    Calls](Ending%20a%20Case.htm) table of the Premier Responder
+    Calls](Ending a Case.md) table of the Premier Responder
     Calltaker main window with the title showing in the column header.
 
  

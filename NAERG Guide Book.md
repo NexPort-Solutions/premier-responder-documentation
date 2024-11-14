@@ -22,8 +22,8 @@ Isolation/Protective (green pages) sections.
 
 Finally, operator activity within the ERG window, including a time stamp
 for each action, is recoded in the Events section of the [case
-report](Case%20Reports.htm).  Additionally, a narrative message to a CAD
+report](Case Reports.md).  Additionally, a narrative message to a CAD
 system that occurs upon selection of a material, guide or placard can be
 configured on the [SOP/ERG Narrative configuration
-screen](SOP-ERG%20Narrative%20Settings.htm) within the Administrator
+screen](SOP-ERG Narrative Settings.md) within the Administrator
 application.

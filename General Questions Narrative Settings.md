@@ -13,7 +13,7 @@ tab displays the following settings:
 -   **Entry Only**: When selected, only the entry is included in the
     narratives sent to CAD.
 -   **Job Text**: When selected, the [job
-    text](General%20Questions%20Editor.htm) associated with the entry is
+    text](General Questions Editor.md) associated with the entry is
     placed in the narratives sent to CAD (for entries without associated
     job text, no notification of these entries are sent to CAD).
 -   **Notify CAD when entries are cleared**: When checked, notifications

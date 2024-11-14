@@ -9,9 +9,9 @@ the Show SMS Text command from a CAD system automatically enables the
 text to 9-1-1 functionality.  To manually enable, select the **911Text**
 toolbar button located on the left toolbar of the active call window. 
 For the **911Text** button to appear, the [Show 911Text
-Button](Call%20Buttons%20Settings.htm) setting must be checked on the
+Button](Call Buttons Settings.md) setting must be checked on the
 [Call Taker Buttons configuration
-screen](Call%20Buttons%20Settings.htm).
+screen](Call Buttons Settings.md).
 
 <figure><img src=".gitbook/assets/Text To 9-1-1_files/image001.png" alt=""><figcaption></figcaption></figure> 
 

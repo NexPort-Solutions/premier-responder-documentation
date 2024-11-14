@@ -7,14 +7,14 @@ on the **Settings** tab of the Premier Responder Administrator window
 opens the **Status Bar Panel** configuration screen.  There are four
 groups of settings seen on this screen.  The first three setting groups
 pertain to the status bar at the bottom of the active call window, these
-being for the [call timer](All%20Caller%20Questions.htm) in **Panel 1**,
-the [dispatch priority](Priorities.htm) in **Panel 2**, and the [case
-number](All%20Caller%20Questions.htm) in **Panel 3**.  The last group of
+being for the [call timer](All Caller Questions.md) in **Panel 1**,
+the [dispatch priority](Priorities.md) in **Panel 2**, and the [case
+number](All Caller Questions.md) in **Panel 3**.  The last group of
 settings pertains to the user ID appearing in the status bar of the
 [Premier Responder Administrator
-window](911Adviser%20Administrator.htm), the [Premier Responder
-Call-taker window](911Adviser%20Call-Taker.htm), and the [Premier
-Responder Supervisor window](911Adviser%20Supervisor.htm).  Each panel
+window](911Adviser Administrator.md), the [Premier Responder
+Call-taker window](911Adviser Call-Taker.md), and the [Premier
+Responder Supervisor window](911Adviser Supervisor.md).  Each panel
 group includes the following settings:
 
 -   **Enabled (Panels 1-4)**: When checked, panel appears on status bar.

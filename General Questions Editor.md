@@ -16,7 +16,7 @@ Administrator**.
 # Entering Report Text
 
 The **Report Text** text box is used to enter text that replaces the
-tags in the [Short Report](Short%20Report.htm).  If **Report Text** is
+tags in the [Short Report](Short Report.md).  If **Report Text** is
 not entered for an item, then the item\'s text is used as-is in the
 tags.
 

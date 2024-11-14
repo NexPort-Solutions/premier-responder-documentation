@@ -9,14 +9,14 @@ following settings:
 # SOP
 
 -   **Completed Narrative**: When checked, enables  narratives to CAD
-    for [completed SOP actions](Standard%20Operating%20Procedure.htm).
+    for [completed SOP actions](Standard Operating Procedure.md).
 -   **Completed Prefix**: Text label prepended to description of
-    [completed SOP action](Standard%20Operating%20Procedure.htm) in
+    [completed SOP action](Standard Operating Procedure.md) in
     narrative.
 -   **Skipped Narrative**: When checked, enables narratives to CAD for
-    [skipped SOP actions](Standard%20Operating%20Procedure.htm).
+    [skipped SOP actions](Standard Operating Procedure.md).
 -   **Skipped Prefix**: Text label prepended to description of [skipped
-    SOP action](Standard%20Operating%20Procedure.htm) in narrative.
+    SOP action](Standard Operating Procedure.md) in narrative.
 -   **Narrative Length**: Specifies the maximum length of narrative.  A
     value of 0 indicates no limit.
 
@@ -24,6 +24,6 @@ following settings:
 
 -   **Narrative Content**: When checked, label and content included in
     narrative to CAD for [selected ERG
-    material](NAERG%20Guide%20Book.htm).
+    material](NAERG Guide Book.md).
 
 <figure><img src=".gitbook/assets/SOP-ERG Narrative Settings_files/image001.png" alt=""><figcaption></figcaption></figure> 

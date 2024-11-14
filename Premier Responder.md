@@ -36,11 +36,11 @@ application, with each component being assigned a different area of
 responsibility.  The three components together with their respective
 area of responsibility are as follows:
 
--   [Premier Responder Call-Taker](Premier%20Responder%20Call-Taker.htm)
+-   [Premier Responder Call-Taker](Premier Responder Call-Taker.md)
     for entering calls and accessing online references.
--   [Premier Responder Supervisor](Premier%20Responder%20Supervisor.htm)
+-   [Premier Responder Supervisor](Premier Responder Supervisor.md)
     for QA and generating reports.
 -   [Premier Responder
-    Administrator](Premier%20Responder%20Administrator.htm) for data
+    Administrator](Premier Responder Administrator.md) for data
     entry and configuration.
 :::

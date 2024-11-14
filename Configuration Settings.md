@@ -16,38 +16,38 @@ and select the **Configure -\> Settings** menu item.
 
 The configuration settings are grouped into the following categories:
 
-> [CAD Interface](Cad%20Interface%20Settings.htm)
+> [CAD Interface](Cad Interface Settings.md)
 >
-> [Call Taker Buttons](Call%20Buttons%20Settings.htm)
+> [Call Taker Buttons](Call Buttons Settings.md)
 >
-> [Call Scoring](Call%20Scoring%20Settings.htm)
+> [Call Scoring](Call Scoring Settings.md)
 >
-> [Call-Taking Component](Call-Taking%20Component%20Settings.htm)
+> [Call-Taking Component](Call-Taking Component Settings.md)
 >
-> [Continue Case](Continue%20Case%20Settings.htm)
+> [Continue Case](Continue Case Settings.md)
 >
 > [General Question
-> Narrative](General%20Questions%20Narrative%20Settings.htm)
+> Narrative](General Questions Narrative Settings.md)
 >
-> [Guide Card Tabs](Guide%20Card%20Tabs%20Settings.htm)
+> [Guide Card Tabs](Guide Card Tabs Settings.md)
 >
 > [Immediate Dispatch
-> Button](Immediate%20Dispatch%20Button%20Settings.htm)
+> Button](Immediate Dispatch Button Settings.md)
 >
-> [Call Taker Menus](Main%20Window%20Menus%20Settings.htm)
+> [Call Taker Menus](Main Window Menus Settings.md)
 >
 > [Medical Procedure
-> Buttons](Medical%20Procedure%20Buttons%20Settings.htm)
+> Buttons](Medical Procedure Buttons Settings.md)
 >
 > [Priority Entered
-> Notification](Priority%20Entered%20Notification%20Settings.htm)
+> Notification](Priority Entered Notification Settings.md)
 >
-> [Vital Point Narrative](Vital%20Point%20Narrative%20Settings.htm)
+> [Vital Point Narrative](Vital Point Narrative Settings.md)
 >
-> [Status Bar Panels](Status%20Bar%20Panel%20Settings.htm)
+> [Status Bar Panels](Status Bar Panel Settings.md)
 >
-> [SOP/ERG Narrative](SOP-ERG%20Narrative%20Settings.htm)
+> [SOP/ERG Narrative](SOP-ERG Narrative Settings.md)
 >
-> [VPI Interface](VPI%20Interface%20Settings.htm)
+> [VPI Interface](VPI Interface Settings.md)
 >
-> [Nice Interface](NICE%20Interface%20Settings.htm)
+> [Nice Interface](NICE Interface Settings.md)

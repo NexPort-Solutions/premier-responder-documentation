@@ -20,13 +20,13 @@ currently logged in user. 
 The functions that are available from the Premier Responder
 Administrator component are found in the following topics:
 
--   [Logging In](Logging%20In.htm)
--   [Printing](Printing.htm)
--   [Data Management](Data%20Management.htm)
--   [Configuration Settings](Configuration%20Settings.htm)
--   [Call-Archiving](Archiving%20Calls.htm)
--   [Installing Updates](Installing%20Updates.htm)
--   [Logging Out](Logging%20Out.htm)
+-   [Logging In](Logging In.md)
+-   [Printing](Printing.md)
+-   [Data Management](Data Management.md)
+-   [Configuration Settings](Configuration Settings.md)
+-   [Call-Archiving](Archiving Calls.md)
+-   [Installing Updates](Installing Updates.md)
+-   [Logging Out](Logging Out.md)
 
 [Return to Premier Responder Emergency Dispatch
-Software](Premier%20Responder.htm)
+Software](Premier Responder.md)
