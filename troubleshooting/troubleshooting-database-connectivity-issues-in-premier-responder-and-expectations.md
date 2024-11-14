@@ -1,6 +1,6 @@
-# Troubleshooting Database Connectivity Issues in Premier Responder
+# Troubleshooting Database Connectivity Issues in Premier Responder and Expectations
 
-This guide helps troubleshoot database connectivity problems in Premier Responder, considering its requirement for both x86 and x64 OLEDB drivers.
+This guide helps troubleshoot database connectivity problems in Premier Responder, considering its requirement for both x86 and x64 OLEDB drivers. These products depend on the MSOLEDBSQL provider for connectivity.
 
 ### Prerequisite <a href="#id-1-install-oledb-drivers" id="id-1-install-oledb-drivers"></a>
 
@@ -8,7 +8,9 @@ Installation of the [Microsoft Visual C++ Redistributable](https://learn.microso
 
 ### 1. Install OLEDB Drivers <a href="#id-1-install-oledb-drivers" id="id-1-install-oledb-drivers"></a>
 
-* Visit the official Microsoft download page: [https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server?view=sql-server-ver16](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server?view=sql-server-ver16)
+* Visit the official Microsoft download page: \
+  **Full List of Versions:** [https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16](https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16)\
+  **Latest Version Only:** [https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server?view=sql-server-ver16](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server?view=sql-server-ver16)
 * Download **both** the x86 and x64 versions of the appropriate OLEDB driver (e.g., MSOLEDBSQL v19).
 * Run both installers, following the on-screen prompts.
 
