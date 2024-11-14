@@ -18,8 +18,7 @@ Application Program Interface (API) and include:
 
 (Network connection)
 
-<figure><img src=".gitbook/assets/Network connection_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="603"
-height="231"}
+<figure><img src=".gitbook/assets/Network connection_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
 A normal or error response will be sent back to the CAD for each
 incoming command.  Also, premier responder events are sent to the CAD in

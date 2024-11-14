@@ -13,8 +13,7 @@ appear in the middle utility section, on tab controls.  On the status
 bar, the left panel is used to display messages and the right shows the
 currently logged in user. 
 
-<figure><img src=".gitbook/assets/Administrator_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
-height="504"}
+<figure><img src=".gitbook/assets/Administrator_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
 # Premier Responder Administrator Functions
 

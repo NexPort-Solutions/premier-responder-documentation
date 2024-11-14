@@ -15,8 +15,7 @@ primary questions are created in the [Universal Questions
 Editor](General%20Questions%20Editor.htm) found in the administrator
 application.
 
-<figure><img src=".gitbook/assets/General Questions_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
-height="501"}
+<figure><img src=".gitbook/assets/General Questions_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
 # Complaint Selection
 

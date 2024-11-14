@@ -20,5 +20,4 @@ tab displays the following settings:
     are sent to CAD when a universal question entry is cleared (provided
     the narrative has not been disabled).
 
-<figure><img src=".gitbook/assets/General Question Narrative Settings_files/Image001.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="655" height="504"}
+<figure><img src=".gitbook/assets/General Question Narrative Settings_files/Image001.png" alt=""><figcaption></figcaption></figure> 

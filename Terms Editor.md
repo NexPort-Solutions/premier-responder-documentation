@@ -14,38 +14,7 @@ and **Delete** menu buttons are disabled for [call types whose content
 is protected](Available%20Call%20Types%20Editor.htm).  Use the **Close
 Editor** button to close the Terms Editor.
 
-<figure><img src=".gitbook/assets/Terms Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
-height="229"}
-
-# Abbreviations Tab
-
-Abbreviations with their associated terms are entered on the
-**Abbreviations** tab of the **Terms Editor**.  All abbreviations for
-the specified **Call Type** are listed in the **Select** region of the
-tab.  When an abbreviation is selected it is loaded into the **Edit**
-region of the tab.  Changes made in the **Abbreviation** and **Term**
-fields are entered using the **Save** menu button.  Use the **New** menu
-button to create a new abbreviation/term.  The **Abbreviation** and
-**Term** fields are set to default values.  To delete an abbreviation,
-first select it and then click on the **Delete** button.
-
-<figure><img src=".gitbook/assets/Terms Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
-height="504"}
-
-# Definitions Tab
-
-Terms with their associated definitions are entered on the **Glossary**
-tab of the Terms Editor.  All terms for the indicated call type are
-listed in the **Select - Term** drop down.  When a term is selected it
-is loaded into the **Edit** region of the tab.  Changes made in the
-**Term** and **Definition** fields are entered using the **Save** menu
-button.  Use the **Create** menu button to create a new
-term/definition.  The **Term** and **Definition** fields are set to
-default values.  To delete a term, first select it and then click on the
-**Delete** button.
-
-<figure><img src=".gitbook/assets/Terms Editor_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
-height="504"}
+<figure><img src=".gitbook/assets/Terms Editor_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
 # Terminologies
 

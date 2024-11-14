@@ -14,5 +14,4 @@ below the workstation list.  Values appear for **Used Seats**,
 **Available Seats** and **Total Seats**.  The workstation list and seat
 totals update automatically.
 
-<figure><img src=".gitbook/assets/License Status_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="639"
-height="400"}
+<figure><img src=".gitbook/assets/License Status_files/image001.png" alt=""><figcaption></figcaption></figure> 

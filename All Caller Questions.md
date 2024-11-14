@@ -18,8 +18,7 @@ loads its associated question set.  The questions appearing on the
 **Universal Questions** tab are created using the [Universal Questions
 Editor](General%20Questions%20Editor.htm).
 
-<figure><img src=".gitbook/assets/All Caller Questions_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
-height="501"}
+<figure><img src=".gitbook/assets/All Caller Questions_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
 # Immediate Dispatch Button
 

@@ -17,5 +17,4 @@ following settings:
 
 -   **Password 2**: Second password is not required
 
-<figure><img src=".gitbook/assets/NICE Interface Settings_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="655" height="504"}
+<figure><img src=".gitbook/assets/NICE Interface Settings_files/image001.png" alt=""><figcaption></figcaption></figure> 

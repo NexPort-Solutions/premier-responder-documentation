@@ -15,5 +15,4 @@ the following settings:
 -   **911Text**: When checked and texting active, send buttons or
     hyperlinks appear for each line of text on indicated tab.
 
-<figure><img src=".gitbook/assets/Guide Card Tabs Settings_files/Image001.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="655" height="504"}
+<figure><img src=".gitbook/assets/Guide Card Tabs Settings_files/Image001.png" alt=""><figcaption></figcaption></figure> 

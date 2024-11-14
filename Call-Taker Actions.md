@@ -11,8 +11,7 @@ the [Guide Card Tabs configuration
 screen](Guide%20Card%20Tabs%20Settings.htm).  Call taker actions are
 entered using the [Guide Card Editor](Guide%20Card%20Editor.htm).
 
-<figure><img src=".gitbook/assets/Call-Taker Actions_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
-height="501"}
+<figure><img src=".gitbook/assets/Call-Taker Actions_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
 # Hyperlinks
 

@@ -17,8 +17,7 @@ screen appears.  Seen at the bottom of the splash screen are the
 customized guide card set and software version.  Once loading completes,
 the application\'s [main form](Main%20Form.htm) is displayed.
 
-<figure><img src=".gitbook/assets/Getting Started_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="540"
-height="319"}
+<figure><img src=".gitbook/assets/Getting Started_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
 # The Administrator Login
 

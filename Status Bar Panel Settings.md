@@ -29,5 +29,4 @@ group includes the following settings:
 -   **Options (Panel 3)**: Indicate to either show or hide internally
     generated case number.
 
-<figure><img src=".gitbook/assets/Status Bar Panel Settings_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="655" height="504"}
+<figure><img src=".gitbook/assets/Status Bar Panel Settings_files/image001.png" alt=""><figcaption></figcaption></figure> 

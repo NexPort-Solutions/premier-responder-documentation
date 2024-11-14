@@ -57,5 +57,4 @@ the **Settings** window displays the following settings:
     Type text field in Priority Change Event. A value of 0 indicates no
     limit.
 
-<figure><img src=".gitbook/assets/CAD Interface Settings_files/Image001.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="655" height="504"}
+<figure><img src=".gitbook/assets/CAD Interface Settings_files/Image001.png" alt=""><figcaption></figcaption></figure> 

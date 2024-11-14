@@ -16,23 +16,7 @@ To access the Window Caption Editor Controls:
 -   Select a call type from the list to enable the Window Caption editor
     controls.
 
-<figure><img src=".gitbook/assets/Main Form Caption Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="415" height="92"}
-
-To edit the caption, use the **Clear** or **Add** caption buttons.  The
-results appear in the text box below the buttons.
-
-<figure><img src=".gitbook/assets/Main Form Caption Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="655" height="504"}
-
-The **Clear** caption button deletes all items in the Window Caption
-textbox.  The **Add** caption button displays the questions that can be
-added.  Selecting a questions opens a text editing window containing the
-default text.  Change the text as desired and select the \"OK\" button
-to add the item.
-
-<figure><img src=".gitbook/assets/Main Form Caption Editor_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="359" height="149"}
+<figure><img src=".gitbook/assets/Main Form Caption Editor_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
 The configured caption, seen in the Window Caption text box, [appears on
 the active call window title bar](General%20Questions.htm).  When taking

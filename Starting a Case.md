@@ -9,40 +9,7 @@ indicates \"Waiting For Call\".  To start a new case, either:
 
 -   press the **Start** button
 
-<figure><img src=".gitbook/assets/Starting a Case_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="570"
-height="254"}
-
--   select the **Case - Start Call** menu item
-
-<figure><img src=".gitbook/assets/Starting a Case_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="159"
-height="98"}
-
--   press the **F5** function key
--   select the **Alt** key to enable menu shortcuts, then press the
-    \"**C**\" key followed by the \"**S**\" key
--   make the appropriate entry from a CAD system having an interface to
-    Premier Responder
-
-# Active Call Window
-
-When a new call is started, the active call window opens.  The active
-call window includes two toolbars at the top having a number of buttons
-and several tabs below with the interrogation and information screens. 
-Note when the active call window first opens:
-
--   Content for the selected discipline (LE, Med, Fire), appears on the
-    Universal Questions screen.
-
--   The elapsed time clock, found on the first status bar panel, begins
-    counting.
-
--   The case number appears on the third status bar panel.
-
--   The dynamic components of the [customizable window
-    caption](Main%20Form%20Caption%20Editor.htm) are initially blank.
-
-<figure><img src=".gitbook/assets/Starting a Case_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
-height="501"}
+<figure><img src=".gitbook/assets/Starting a Case_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
 # Toolbar Buttons
 

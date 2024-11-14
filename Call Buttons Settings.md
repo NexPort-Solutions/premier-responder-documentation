@@ -46,5 +46,4 @@ list on the **Settings** tab displays the following:
 -   **Show Transfer Button**: When checked, [Transfer
     button](Starting%20a%20Case.htm) appears on active call window.
 
-<figure><img src=".gitbook/assets/Call Buttons Settings_files/Image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
-height="504"}
+<figure><img src=".gitbook/assets/Call Buttons Settings_files/Image001.png" alt=""><figcaption></figcaption></figure> 

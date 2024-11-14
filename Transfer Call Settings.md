@@ -20,5 +20,4 @@ controls used to manage locations where a call may be transferred (see
 -   **Call Transfer Locations**: list box used to select location entry
     for editing, deleting, or reordering.
 
-<figure><img src=".gitbook/assets/Transfer Call Settings_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="655" height="504"}
+<figure><img src=".gitbook/assets/Transfer Call Settings_files/image001.png" alt=""><figcaption></figcaption></figure> 

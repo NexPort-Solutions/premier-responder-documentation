@@ -30,18 +30,4 @@ and the term in the right.  Selecting either the abbreviation or term
 highlights the entire row.  Additionally, if the glossary contains a
 definition, it is automatically selected.
 
-<figure><img src=".gitbook/assets/Medical Terms_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="596"
-height="400"}
-
-# Glossary Tab
-
-The Glossary tab is used to look up the definition for a term. This is
-done by either:
-
--   Making a selection from the **Term** drop down list.
--   Entering the name of a term in the **Term** box.
-
-A description of the selected term is shown in the **Definition** box.
-
-<figure><img src=".gitbook/assets/Medical Terms_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="596"
-height="400"}
+<figure><img src=".gitbook/assets/Medical Terms_files/image001.png" alt=""><figcaption></figcaption></figure> 

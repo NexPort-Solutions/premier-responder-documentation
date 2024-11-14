@@ -10,18 +10,7 @@ used to add additional call types.  To open the **Call Types** editor,
 select **Edit - Call Types** menu item on the **Premier Responder
 Administrator** window. 
 
-<figure><img src=".gitbook/assets/Available Call Type Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="655" height="218"}
-
-Call types appear in the list on the left side of the window.  The
-selected call type is highlighted.  Graphical buttons at the top of the
-window are used to add, remove, and reorder the call types shown in the
-list.  Tool tips can be seen when the mouse cursor is hovered over the
-buttons for a short period of time.  Call type attributes are indicated
-by the check boxes located at the bottom left of the window.
-
-<figure><img src=".gitbook/assets/Available Call Type Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="655" height="504"}
+<figure><img src=".gitbook/assets/Available Call Type Editor_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
 # Reordering Call Types List
 

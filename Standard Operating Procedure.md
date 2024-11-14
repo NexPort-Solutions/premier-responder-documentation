@@ -24,5 +24,4 @@ operating procedures content is entered by an administrator level user
 in the [Standard Operating Procedures
 Editor](Standard%20Operating%20Procedures%20Editor.htm).
 
-<figure><img src=".gitbook/assets/Standard Operating Procedure_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="697" height="501"}
+<figure><img src=".gitbook/assets/Standard Operating Procedure_files/image001.png" alt=""><figcaption></figcaption></figure> 

@@ -13,5 +13,4 @@ report for entries that have not been made.  To change the label or hide
 the tab use the settings for **Tab #8** on the [Guide Card Tabs
 configuration screen](Guide%20Card%20Tabs%20Settings.htm).
 
-<figure><img src=".gitbook/assets/Short Report_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
-height="501"}
+<figure><img src=".gitbook/assets/Short Report_files/image001.png" alt=""><figcaption></figcaption></figure> 

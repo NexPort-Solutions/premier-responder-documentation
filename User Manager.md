@@ -9,16 +9,7 @@ Manager.  To bring up the User Manager, log into Premier Responder
 Administrator with an administrator access level user ID then select the
 **Edit - Users** menu item.
 
-<figure><img src=".gitbook/assets/User Manager_files/usermanager001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
-height="218"}
-
-The User Manager appears on the tab labeled **Users**.  Tool tips are
-available to identify the toolbar buttons.  Hold the mouse cursor over a
-button to see the tool tip. To exit the User Manager select the **X**
-(close editor) button at the far right of the toolbar.
-
-<figure><img src=".gitbook/assets/User Manager_files/usermanager002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
-height="504"}
+<figure><img src=".gitbook/assets/User Manager_files/usermanager001.png" alt=""><figcaption></figcaption></figure> 
 
  # Adding a User Login
 

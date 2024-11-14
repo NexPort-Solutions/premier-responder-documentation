@@ -18,5 +18,4 @@ tab displays the following settings:
     images, uncheck the **Show Image** checkbox.  The button labels are
     shown in the adjoining text boxes.
 
-<figure><img src=".gitbook/assets/Medical Procedure Buttons Settings_files/Image001.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="655" height="504"}
+<figure><img src=".gitbook/assets/Medical Procedure Buttons Settings_files/Image001.png" alt=""><figcaption></figcaption></figure> 

@@ -23,5 +23,4 @@ list on the **Settings** tab.   The following settings appear:
     Text event is sent to CAD when an entry is cleared (provided the
     narrative has not been disabled).
 
-<figure><img src=".gitbook/assets/Vital Point Narrative Settings_files/Image001.png" alt=""><figcaption></figcaption></figure>{border="0"
-width="655" height="504"}
+<figure><img src=".gitbook/assets/Vital Point Narrative Settings_files/Image001.png" alt=""><figcaption></figcaption></figure> 

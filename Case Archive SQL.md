@@ -13,8 +13,7 @@ Timeout** selector appears conditionally with the **SQL Server Setup**
 configuration screen.  To close the tab without making an archive
 selection, click one of the other tabs or the \'X\' toolbar button.
 
-<figure><img src=".gitbook/assets/Case Archive SQL_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
-height="504"}
+<figure><img src=".gitbook/assets/Case Archive SQL_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
 # Connect To Server
 
