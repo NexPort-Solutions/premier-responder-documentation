@@ -23,5 +23,5 @@ following settings:
 
  
 
-![](Continue%20Case%20Settings_files/Image001.png){border="0"
+<figure><img src=".gitbook/assets/Continue Case Settings_files/Image001.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}

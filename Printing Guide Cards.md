@@ -2,7 +2,7 @@
   **Printing Guide Cards**
   --------------------------
 
-[Print Tab]{.underline}
+# Print Tab
 
 Guide card printing is accomplished on the **Print** tab of the Premier
 Responder Administrator application.  To load the **Print** tab, log
@@ -14,10 +14,10 @@ selecting the guide card set and buttons for saving, printing and
 previewing the generated report. A tool tip appears when hovering the
 mouse cursor over one of the buttons.
 
-![](Printing%20Guide%20Cards_files/image001.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Printing Guide Cards_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
-[Generate Report]{.underline}
+# Generate Report
 
 The **Call Type** drop down is used to select a guide card set.  Once a
 call type is selected, a progress bar appears at the bottom of the
@@ -32,10 +32,10 @@ short report.  Each section only appears when enabled and with the label
 given on the [Guide Card Tabs
 Settings](Guide%20Card%20Tabs%20Settings.htm) configuration screen.
 
-![](Printing%20Guide%20Cards_files/image006.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Printing Guide Cards_files/image006.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="74"}
 
-[Save Report]{.underline}
+# Save Report
 
 The **Save Report** button is used to save the generated report to a
 rich text file.  Selecting the button opens a **Save As** dialog
@@ -44,10 +44,10 @@ window.  To save the report, browse to the desired folder and select the
 prefixed to the text \"Guide Cards.rtf\".  Use the **Cancel** button to
 close the window without saving.
 
-![](Printing%20Guide%20Cards_files/image005.png){border="0" width="626"
+<figure><img src=".gitbook/assets/Printing Guide Cards_files/image005.png" alt=""><figcaption></figcaption></figure>{border="0" width="626"
 height="505"}
 
-[Print Report]{.underline}
+# Print Report
 
 Selecting the **Print Report** button opens a **Print** dialog window. 
 Available printers appears in the **Select Printer** list at the top of
@@ -59,10 +59,10 @@ copies** value to print more than one copy.  Selecting the **Print**
 button sends the report to the indicated printer.  Select the **Cancel**
 button to close the window without printing.
 
-![](Printing%20Guide%20Cards_files/image002.png){border="0" width="460"
+<figure><img src=".gitbook/assets/Printing Guide Cards_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="460"
 height="418"}
 
-[Preview Report]{.underline}
+# Preview Report
 
 Use the **Preview Report** button to view the formatted report with the
 configured margins and orientation.  The **Print** button at the far
@@ -73,10 +73,10 @@ viewed with the **One page**, **Two pages**, **Three pages**, **Four
 pages**, and **Six pages** buttons.  Select the **Close** button to
 close the window.
 
-![](Printing%20Guide%20Cards_files/image003.png){border="0" width="641"
+<figure><img src=".gitbook/assets/Printing Guide Cards_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="641"
 height="497"}
 
-[Page Setup]{.underline}
+# Page Setup
 
 To change the report margins and orientation use the **Page Setup**
 button.  At the top of the **Page Setup** dialog are drop down lists
@@ -86,7 +86,7 @@ page layouts.  Set the print margin values in the **Left**, **Right**,
 **Top**, and **Bottom** text boxes.  Select **OK** to apply changes or
 **Cancel** to exit without saving.
 
-![](Printing%20Guide%20Cards_files/image004.png){border="0" width="362"
+<figure><img src=".gitbook/assets/Printing Guide Cards_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0" width="362"
 height="417"}
 
  

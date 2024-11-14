@@ -12,7 +12,7 @@ chemical and toxicological characteristics.  The guide information is
 organized into Potential Hazards, Public Safety and Emergency Response
 sections.
 
-![](NAERG%20Guide%20Book_files/image001.png){border="0" width="598"
+<figure><img src=".gitbook/assets/NAERG Guide Book_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="598"
 height="468"}
 
 Guides can be selected for viewing on the ERG window by entering a
@@ -20,7 +20,7 @@ chemical ID number, chemical name or guide number in the appropriate box
 and then depressing the enter key.  Alternatively, a selection can be
 made from one of the drop downs. 
 
-![](NAERG%20Guide%20Book_files/image002.png){border="0" width="598"
+<figure><img src=".gitbook/assets/NAERG Guide Book_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="598"
 height="468"}
 
 If a material cannot be identified by an ID number or name, a guide
@@ -31,7 +31,7 @@ is found.  An orange Guide Number background indicates there is
 information regarding the compatibility group letter located on the
 Supplemental Information tab.
 
-![](NAERG%20Guide%20Book_files/image007.png){border="0" width="598"
+<figure><img src=".gitbook/assets/NAERG Guide Book_files/image007.png" alt=""><figcaption></figcaption></figure>{border="0" width="598"
 height="468"}
 
 When a guide is loaded, the title appears to the right of the Guide
@@ -45,7 +45,7 @@ background.  For these materials, the Isolation and Water Reactive tabs
 are populated and the background color changes to indicate where to find
 the related TIH information.
 
-![](NAERG%20Guide%20Book_files/image003.png){border="0" width="598"
+<figure><img src=".gitbook/assets/NAERG Guide Book_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="598"
 height="468"}
 
 Selecting the Isolation tab brings up the Isolation tables and
@@ -56,7 +56,7 @@ identified by the chemical ID number is listed with multiple names, the
 names possibly indicating different forms or uses of the material. 
 These can be selected to view the different listings. 
 
-![](NAERG%20Guide%20Book_files/image004.png){border="0" width="598"
+<figure><img src=".gitbook/assets/NAERG Guide Book_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0" width="598"
 height="468"}
 
 A blue background in the ID Number box indicates the chemical reacts
@@ -64,7 +64,7 @@ with water to produce one or more TIH gases.  The Water Reactive tab
 changes to the same color, indicating where to find related TIH
 information.  Select the tab to bring it to the forefront.
 
-![](NAERG%20Guide%20Book_files/image005.png){border="0" width="598"
+<figure><img src=".gitbook/assets/NAERG Guide Book_files/image005.png" alt=""><figcaption></figcaption></figure>{border="0" width="598"
 height="468"}
 
 Shown at the top of the Water Reactive Substance tab is the material ID
@@ -72,7 +72,7 @@ number and name together with the chemical formulas for the resulting
 TIH gases which are produced when a reaction with water occurs.  Located
 below these is a table for interpreting the chemical formula.
 
-![](NAERG%20Guide%20Book_files/image006.png){border="0" width="598"
+<figure><img src=".gitbook/assets/NAERG Guide Book_files/image006.png" alt=""><figcaption></figcaption></figure>{border="0" width="598"
 height="468"}
 
 [ Table 3 includes initial isolation and protective action distances for
@@ -101,7 +101,7 @@ gases:]{style="font-size:12.0pt;font-family:\"Times New Roman\",\"serif\""}
 Large spill isolation distances seen on the Isolation tab for these
 materials will indicate Table 3.
 
-![](NAERG%20Guide%20Book_files/image008.png){border="0" width="598"
+<figure><img src=".gitbook/assets/NAERG Guide Book_files/image008.png" alt=""><figcaption></figcaption></figure>{border="0" width="598"
 height="468"}
 
 [ When colored yellow, the Table 3 tab provides initial isolation and
@@ -111,7 +111,7 @@ volume capacities) for day time and night time situations and different
 wind
 speeds.]{style="font-size:12.0pt;font-family:\"Times New Roman\",\"serif\""}
 
-![](NAERG%20Guide%20Book_files/image009.png){border="0" width="598"
+<figure><img src=".gitbook/assets/NAERG Guide Book_files/image009.png" alt=""><figcaption></figcaption></figure>{border="0" width="598"
 height="468"}
 
 Note that the database utilized by the tabs described above does not

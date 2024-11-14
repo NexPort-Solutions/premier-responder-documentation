@@ -2,7 +2,7 @@
   **Premier Responder Call-taker**
   ----------------------------------
 
-[Premier Responder Call-taker Window]{.underline}
+# Premier Responder Call-taker Window
 
 Prior to starting a case, the Premier Responder Calltaker main form
 appears as shown below.  It consists of a title bar, menu bar, tool bar,
@@ -16,9 +16,9 @@ the tool bar where the controls for those functions, that require quick
 access are located. These functions include starting a call, viewing a
 case, refreshing the case list, and pre-selecting a call type.
 
-![](Calltaker_files/image001.png){border="0" width="570" height="254"}
+<figure><img src=".gitbook/assets/Calltaker_files/image001.png" alt=""><figcaption></figcaption></figure>
 
-[Premier Responder Call-taker Functions]{.underline}
+# Premier Responder Call-taker Functions
 
 The functions that are available from the Premier Responder Call-Taker
 component are found in the following topics:

@@ -2,7 +2,7 @@
   **Software Deactivation**
   ---------------------------
 
-[Deactivate Licensing Menu]{.underline}
+# Deactivate Licensing Menu
 
 A **Deactivate Licensing** menu option is available from within the
 **Help** menu of each application.  The menu is enabled when logged on
@@ -13,10 +13,10 @@ Licensing** menu are submenu options for deactivating directly or
 indirectly.  Use the direct method when internet access is available on
 the host machine and the indirect method when not.
 
-![](Software%20Deactivation_files/image001.png){border="0" width="216"
+<figure><img src=".gitbook/assets/Software Deactivation_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="216"
 height="126"}
 
-[Direct Deactivation]{.underline}
+# Direct Deactivation
 
 When internet access is available on the host machine the software can
 be deactivated directly.  Selecting the **Deactivate Licensing -
@@ -26,10 +26,10 @@ Clicking the **OK** button proceeds with the deactivation.  When
 complete, a subsequent dialog window appears indicating deactivation
 successful.  Upon closing the dialog the application terminates.
 
-![](Software%20Deactivation_files/image002.png){border="0" width="431"
+<figure><img src=".gitbook/assets/Software Deactivation_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="431"
 height="233"}
 
-[Indirect Deactivation]{.underline}
+# Indirect Deactivation
 
 When internet access is not available on the host machine, the software
 must be deactivated indirectly using a machine that does have internet
@@ -43,7 +43,7 @@ the path of the deactivation request file. Selecting the **Save
 Request** button generates the deactivation request file on the flash
 drive.
 
-![](Software%20Deactivation_files/image003.png){border="0" width="374"
+<figure><img src=".gitbook/assets/Software Deactivation_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="374"
 height="251"}
 
 Now take the flash drive to a computer with internet access and open
@@ -53,7 +53,7 @@ select option to allow blocked content.  Once loading is complete,
 select File - Save As menu item and save XML deactivation installation
 file to flash drive.
 
-![](Software%20Deactivation_files/image004.png){border="0" width="735"
+<figure><img src=".gitbook/assets/Software Deactivation_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0" width="735"
 height="350"}
 
 Complete the deactivation process by taking the flash drive back to the
@@ -63,5 +63,5 @@ button.  A final dialog window appears indicating deactivation
 successful.  Upon closing deactivation successful dialog the application
 terminates.
 
-![](Software%20Deactivation_files/image005.png){border="0" width="374"
+<figure><img src=".gitbook/assets/Software Deactivation_files/image005.png" alt=""><figcaption></figcaption></figure>{border="0" width="374"
 height="251"}

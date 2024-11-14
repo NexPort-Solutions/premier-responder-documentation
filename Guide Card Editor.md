@@ -2,7 +2,7 @@
   **Guide Card Editor**
   -----------------------
 
-[Starting The Guide Card Editor]{.underline}
+# Starting The Guide Card Editor
 
 The guide card content appearing on the call-taker window during the
 course of a call is entered into Premier Responder using the **Guide
@@ -11,7 +11,7 @@ in](Logging%20In.htm) as an administrator and select the **Edit - Guide
 Cards** menu item on the **Premier Responder** **Administrator** main
 window.  When active, other Premier Responder windows are disabled.
 
-![](Guide%20Card%20Editor_files/image006.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide Card Editor_files/image006.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="214"}
 
  
@@ -29,10 +29,10 @@ Categories Editor](Priority%20Categories%20Editor.htm) only appears when
 the **Priority** tab is selected.  Selecting the **\'X\'** button in the
 top right hand corner of the tab closes the **Guide Card Editor**.
 
-![](Guide%20Card%20Editor_files/image001.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide Card Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
-[Loading A Guide Card]{.underline}
+# Loading A Guide Card
 
 To load a guide card into the editor, first indicate the **Call Type**
 by making a selection from the drop down list.  This loads the
@@ -44,10 +44,10 @@ cleared.  Next select a complaint from the **Guide Card** drop down
 list.  Each tab is then loaded with its own particular guide card
 information that is related to the specified complaint.
 
-![](Guide%20Card%20Editor_files/image002.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide Card Editor_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="269"}
 
-[Vital Points Tab]{.underline}
+# Vital Points Tab
 
 Vital point questions appear on the **Vital Points** sub tab of the
 **Guide Cards** tab.  Questions are shown in question list box just
@@ -79,10 +79,10 @@ are used as follows:
 -   To hide or display a question, select the checkbox next to the
     \"Show Question\" item.
 
-![](Guide%20Card%20Editor_files/image003.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide Card Editor_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
-[Priority Tab]{.underline}
+# Priority Tab
 
 Dispatch categories for the indicated **Call Type** together with the
 **Guide Card** symptoms appear on the **Priority** sub tab of the
@@ -110,11 +110,11 @@ description and code text boxes to enter symptoms for the selected
     in the **Code** box at the bottom of the window.  The new code is
     saved automatically.
 
-![](Guide%20Card%20Editor_files/image004.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide Card Editor_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
-[Call-Taker Act, Pre-Arrival, Dispatcher Act, & Background
-Tabs]{.underline}
+# Call-Taker Act, Pre-Arrival, Dispatcher Act, & Background
+Tabs
 
 The **Call-Taker Act**, **Pre-Arrival**, **Dispatcher Act**, and
 **Background** sub tabs display rich text.  To change the text on any of
@@ -123,10 +123,10 @@ enter the text directly into the rich text box or paste it from the
 clipboard using the control-v key combination.  Changes are
 automatically saved.
 
-![](Guide%20Card%20Editor_files/image005.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide Card Editor_files/image005.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
-[Short Report Tab]{.underline}
+# Short Report Tab
 
 The **Short Report** sub tab is used to edit the portion of the short
 report that includes the vital point entries.  Text can be pasted into
@@ -142,7 +142,7 @@ is as follows:
     menu to create a data item tag.
 -   Select the **Remove** button to delete data items from the report.
 
-![](Guide%20Card%20Editor_files/image007.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Guide Card Editor_files/image007.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
  

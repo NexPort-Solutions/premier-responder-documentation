@@ -7,7 +7,7 @@ To configure an Access database select the Access Setup tab from the
 where the database file will be located.  Select **Browse** to change
 the **Archive Folder**. 
 
-![](Case%20Archive%20Access_files/image001.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Case Archive Access_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 The **Auto Create/Select** option will create a new file based on the
@@ -22,5 +22,5 @@ and selected within the Archive folder.  **Create Archive** creates a
 new Access file according to the current date and time in the Archive
 folder, which is shown below.
 
-![](Case%20Archive%20Access_files/image002.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Case Archive Access_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}

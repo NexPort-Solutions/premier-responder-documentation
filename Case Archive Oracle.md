@@ -2,7 +2,7 @@
   **Selecting a Oracle Archive Database**
   -----------------------------------------
 
-[Oracle Server Archive Window]{.underline}
+# Oracle Server Archive Window
 
 The **Oracle Setup** configuration screen is used to select an Oracle
 database for the purpose of archiving calls.  At the top of the screen
@@ -11,10 +11,10 @@ Archive** section includes functionality for creating and selecting a
 database.  To close the tab without making an archive selection, click
 one of the other tabs or the \'X\' toolbar button.
 
-![](Case%20Archive%20Oracle_files/image001.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Case Archive Oracle_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
-[Connect To Server]{.underline}
+# Connect To Server
 
 The controls at the top of the screen are used to specify a server and
 to enter the login information.  Specify the Oracle server by making the
@@ -29,7 +29,7 @@ enabled and existing archives appear in the **Select** list.  If any of
 the connection information is changed, the **Select** list is cleared
 and the **Cases Archive** controls are again disabled.
 
-[Creating And Selecting An Archive]{.underline}
+# Creating And Selecting An Archive
 
 The controls in the **Cases Archive** section are used to create a new
 database and select an archive.  Once a valid database name has been

@@ -2,7 +2,7 @@
   **Data Management**
   ---------------------
 
-[Premier Responder Application Database]{.underline}
+# Premier Responder Application Database
 
 Guide card content is stored in the Premier Responder application
 database, in addition to user logins, contacts, [standard operating
@@ -11,7 +11,7 @@ configuration settings.  The Premier Responder application database
 consists of several Access data files which reside on the local PC and
 are installed separately from the software.
 
-[Content Editors]{.underline}
+# Content Editors
 
 Various editing utilities are provided to update the guide cards and
 other content as needed.  An [administrator login](User%20Manager.htm)

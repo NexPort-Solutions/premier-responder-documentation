@@ -2,7 +2,7 @@
   **Premier Responder Administrator**
   -------------------------------------
 
-[Premier Responder Administrator Window]{.underline}
+# Premier Responder Administrator Window
 
 The Premier Responder Administrator window consists of a menu bar at the
 top, a middle utility section, and a status bar at the bottom.  Guide
@@ -13,10 +13,10 @@ appear in the middle utility section, on tab controls.  On the status
 bar, the left panel is used to display messages and the right shows the
 currently logged in user. 
 
-![](Administrator_files/image001.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Administrator_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
-[Premier Responder Administrator Functions]{.underline}
+# Premier Responder Administrator Functions
 
 The functions that are available from the Premier Responder
 Administrator component are found in the following topics:

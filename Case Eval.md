@@ -2,7 +2,7 @@
   **Case Evaluation**
   ---------------------
 
-[Grade Call Tab]{.underline}
+# Grade Call Tab
 
 Case evaluation is implemented on the **Grade Call** tab of the Premier
 Responder Supervisor window.  It includes editing functionality for
@@ -14,16 +14,16 @@ on the [Case Report tab](Case%20Reports.htm).  The information in the
 evaluation changes are automatically saved and are reloaded upon
 subsequently selecting the case for grading.
 
-![](Case%20Eval_files/image001.png){border="0" width="639" height="400"}
+<figure><img src=".gitbook/assets/Case Eval_files/image001.png" alt=""><figcaption></figcaption></figure>
 
-[Creating Grade Sheets]{.underline}
+# Creating Grade Sheets
 
 The combo box and center toolbar buttons are used to create, select and
 edit grade sheets.  To create a grade sheet, enter a unique description
 in the toolbar combo box then select the **Add** button.  An empty grade
 sheet is created and automatically selected.
 
-![](Case%20Eval_files/image002.png){border="0" width="404" height="107"}
+<figure><img src=".gitbook/assets/Case Eval_files/image002.png" alt=""><figcaption></figcaption></figure>
 
 The grade sheet selected in the combo drop down list appears below the
 **Case Evaluation** header.  Grade sheets are composed of the following
@@ -40,9 +40,9 @@ the **Edit** button or the grade sheet removed with the **Delete**
 button.  When a grade sheet is deleted, all related section and
 requirement nodes are also deleted.
 
-![](Case%20Eval_files/image003.png){border="0" width="384" height="282"}
+<figure><img src=".gitbook/assets/Case Eval_files/image003.png" alt=""><figcaption></figcaption></figure>
 
-[Adding Sections]{.underline}
+# Adding Sections
 
 Sections are added by clicking on the **Add** toolbar button with the
 grade sheet node selected.  A new section appears having a generic
@@ -52,9 +52,9 @@ the selected section or the arrow buttons to change the order.  Note
 that deleting a section removes attached requirements.  Also note when
 moving a section, attached requirements are also moved.
 
-![](Case%20Eval_files/image004.png){border="0" width="639" height="400"}
+<figure><img src=".gitbook/assets/Case Eval_files/image004.png" alt=""><figcaption></figcaption></figure>
 
-[Adding Requirements]{.underline}
+# Adding Requirements
 
 Requirements are created by clicking on the **Add** toolbar button with
 a section node selected.  A new requirement having a generic description
@@ -65,9 +65,9 @@ values are assigned with **Show Check Box** checked and making an entry
 in the **Value** field.  A deduction is indicated by a negative value. 
 To hide the check box, uncheck **Show Check Box**.
 
-![](Case%20Eval_files/image005.png){border="0" width="639" height="400"}
+<figure><img src=".gitbook/assets/Case Eval_files/image005.png" alt=""><figcaption></figcaption></figure>
 
-[Grading Calls]{.underline}
+# Grading Calls
 
 To grade the indicated call, first select the desired grade sheet in the
 toolbar combo box.  Next, in the **Case Evaluation** box, check off each
@@ -77,9 +77,9 @@ point totals, select the grade sheet node or one of the section nodes. 
 Comments can be entered for any grade sheet, section, or requirement
 node by selecting a node and making an entry in the **Comments** field.
 
-![](Case%20Eval_files/image006.png){border="0" width="639" height="400"}
+<figure><img src=".gitbook/assets/Case Eval_files/image006.png" alt=""><figcaption></figcaption></figure>
 
-[Saving and Printing Graded Calls]{.underline}
+# Saving and Printing Graded Calls
 
 The **Final** toolbar button is used to save the completed case
 evaluation.  After saving, an evaluation report is generated and appears
@@ -87,4 +87,4 @@ with the final grade.  Note that, for graded calls, editing and grading
 functionality is disabled.  Selecting the print button sends the report
 to the default printer.
 
-![](Case%20Eval_files/image007.png){border="0" width="639" height="400"}
+<figure><img src=".gitbook/assets/Case Eval_files/image007.png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
   **Selecting a SQL Server Archive Database**
   ---------------------------------------------
 
-[SQL Server Archive Window]{.underline}
+# SQL Server Archive Window
 
 The **SQL Server Setup** configuration screen is used to select a SQL
 Server database for the purpose of archiving calls.  In the **SQL
@@ -13,10 +13,10 @@ Timeout** selector appears conditionally with the **SQL Server Setup**
 configuration screen.  To close the tab without making an archive
 selection, click one of the other tabs or the \'X\' toolbar button.
 
-![](Case%20Archive%20SQL_files/image001.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Case Archive SQL_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
-[Connect To Server]{.underline}
+# Connect To Server
 
 The controls in the **SQL Server** section are used to specify a server
 and to enter the login information.  In the **Instance** drop down are
@@ -47,7 +47,7 @@ connection.  If any of the connection information is changed, the
 Timeout** selector to specify how long to wait for the connection to be
 made before an error is indicated.
 
-[Create Archive]{.underline}
+# Create Archive
 
 The controls in the **Cases Archive** section are used to create a new
 database and select an archive.  Once a valid database name has been

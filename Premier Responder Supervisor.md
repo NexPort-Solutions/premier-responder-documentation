@@ -2,7 +2,7 @@
   **Premier Responder Supervisor**
   ----------------------------------
 
-[Premier Responder Supervisor Window]{.underline}
+# Premier Responder Supervisor Window
 
 The Premier Responder Supervisor main window consists of a menu bar and
 status bar.  From the **Tools** sub menu the [Email
@@ -12,9 +12,9 @@ Recordings](Call%20Recordings.htm) utilities are accessed.  These open
 on tabs within the main window.  The currently logged in user appears on
 the left panel of the status bar.
 
-![](Supervisor_files/image001.png){border="0" width="639" height="400"}
+<figure><img src=".gitbook/assets/Supervisor_files/image001.png" alt=""><figcaption></figcaption></figure>
 
-[Premier Responder Supervisor Functions]{.underline}
+# Premier Responder Supervisor Functions
 
 The tasks/features that are available from the Premier Responder
 Supervisor component are as follows:

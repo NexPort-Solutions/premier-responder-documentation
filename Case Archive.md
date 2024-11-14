@@ -7,7 +7,7 @@ archive cases.  To open the \"Case Archive\" tab, first log into the
 **Premier Responder Administrator**.  Then select the **Configure -\>
 Archive** menu item from the main window.
 
-![](Case%20Archive_files/image001.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Case Archive_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="144"}
 
 When a call is ended, the call information is saved to the working cases
@@ -17,7 +17,7 @@ or another computer.  Typically, several Premier Responder workstations
 will archive cases to a common database.  The Case Archive tab controls
 the archive features.
 
-![](Case%20Archive_files/image002.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Case Archive_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="504"}
 
 When the **Enable Auto Archive** checkbox is checked, cases are

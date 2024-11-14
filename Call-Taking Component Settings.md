@@ -54,5 +54,5 @@ displays the following:
     tab appear in assigned order otherwise they appear in order of
     activation.
 
-![](Call-Taking%20Component%20Settings_files/Image001.png){border="0"
+<figure><img src=".gitbook/assets/Call-Taking Component Settings_files/Image001.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}

@@ -10,7 +10,7 @@ category.  To change the category button labels or hide the buttons use
 the settings on the [Medical Procedure Buttons configuration
 screen](Medical%20Procedure%20Buttons%20Settings.htm).
 
-![](Medical%20Procedures_files/image001.png){border="0" width="697"
+<figure><img src=".gitbook/assets/Medical Procedures_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
 height="242"}
 
 Selecting a category button and then a procedure from the subsequent
@@ -39,7 +39,7 @@ right, the navigation buttons function as follows:
 -   **Retrace Forward** (right arrow with two lines): Display next step
     in history (does not add to history).
 
-![](Medical%20Procedures_files/image002.png){border="0" width="457"
+<figure><img src=".gitbook/assets/Medical Procedures_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="457"
 height="419"}
 
 Another means to navigate the medical procedures is by selecting a
@@ -48,5 +48,5 @@ can branch to a step in the same procedure or one in another procedure. 
 Selecting a link also adds to the history of previously viewed steps.  A
 maximum of 25 steps is stored in the history.
 
-![](Medical%20Procedures_files/image003.png){border="0" width="457"
+<figure><img src=".gitbook/assets/Medical Procedures_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="457"
 height="419"}

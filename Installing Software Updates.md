@@ -2,7 +2,7 @@
   **Software Updates**
   ----------------------
 
-[Update Software Screen]{.underline}
+# Update Software Screen
 
 Software updates in the form of a Windows Installer Package can be
 installed to remote machines from the administrator Update Software
@@ -11,7 +11,7 @@ workstation then launch and log into the administrator application. 
 Next, within the administrator application, select the File - Update
 Software menu item.
 
-![](Installing%20Software%20Updates_files/image001.png){border="0"
+<figure><img src=".gitbook/assets/Installing Software Updates_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="245"}
 
 When the Update Software screen first opens, a search is immediately
@@ -22,7 +22,7 @@ Instances list.  Each entry in the list includes the machine name,
 software version, software in use (Yes or No), and update status (Not
 Updated, Sending Update, Installing Update, Update Installed).
 
- ![](Installing%20Software%20Updates_files/image002.png){border="0"
+ <figure><img src=".gitbook/assets/Installing Software Updates_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}
 
 Once the search completes, select the Change button to open a browser,
@@ -31,7 +31,7 @@ machines to be updated.  Machines showing the software in use cannot be
 checked for updating.  With the installer path set and machines checked
 to update, the Update button becomes enabled.
 
-![](Installing%20Software%20Updates_files/image003.png){border="0"
+<figure><img src=".gitbook/assets/Installing Software Updates_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}
 
 When all is ready, select the Update button to begin. The process starts
@@ -42,7 +42,7 @@ sending phase completes, installation begins.  During this phase the
 status column indicates \"Installing Update\" which is again followed by
 a percentage value.
 
-![](Installing%20Software%20Updates_files/image004.png){border="0"
+<figure><img src=".gitbook/assets/Installing Software Updates_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}
 
 The update process ends when the status of all checked machines
@@ -50,5 +50,5 @@ indicates \"Update Installed\".  To close the Update Software screen,
 select the X (close) toolbar button.  The Refresh button clears the
 Software Instances list and starts another search.
 
-![](Installing%20Software%20Updates_files/image005.png){border="0"
+<figure><img src=".gitbook/assets/Installing Software Updates_files/image005.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}

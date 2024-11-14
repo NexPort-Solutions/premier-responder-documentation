@@ -13,7 +13,7 @@ Button](Call%20Buttons%20Settings.htm) setting must be checked on the
 [Call Taker Buttons configuration
 screen](Call%20Buttons%20Settings.htm).
 
-![](Text%20To%209-1-1_files/image001.png){border="0" width="697"
+<figure><img src=".gitbook/assets/Text To 9-1-1_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
 height="405"}
 
 With text to 9-1-1 functionality enabled, a texting panel appears at the
@@ -28,7 +28,7 @@ panel up or down.  To hide text to 9-1-1 related controls, select the
 **911Text** toolbar button or the **X** (Close) button found at the top
 right of the texting panel.
 
-![](Text%20To%209-1-1_files/image002.png){border="0" width="697"
+<figure><img src=".gitbook/assets/Text To 9-1-1_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
 height="501"}
 
 When enabling text to 9-1-1 functionality, send buttons or hyperlinks
@@ -40,7 +40,7 @@ Text event with the adjoining question or instruction being sent to
 CAD.  Sent texts appear in the dialog box of the active call window
 texting panel and are truncated to 160 characters.
 
-![](Text%20To%209-1-1_files/image003.png){border="0" width="697"
+<figure><img src=".gitbook/assets/Text To 9-1-1_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
 height="501"}
 
 On opening one of the emergency medical procedure windows, a texting

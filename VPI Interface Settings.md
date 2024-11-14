@@ -21,5 +21,5 @@ following settings:
 -   **Config ID**: Recommended parameter for start_session API method
     call provided by VPI Professional Services
 
-![](VPI%20Interface%20Settings_files/image001.png){border="0"
+<figure><img src=".gitbook/assets/VPI Interface Settings_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}

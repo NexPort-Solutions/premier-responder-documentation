@@ -15,5 +15,5 @@ displays the following settings:
     flashes red three times on priority category being initially set and
     orange three times on subsequently being changed.
 
-![](Priority%20Entered%20Notification%20Settings_files/Image001.png){border="0"
+<figure><img src=".gitbook/assets/Priority Entered Notification Settings_files/Image001.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}

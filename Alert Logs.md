@@ -11,4 +11,4 @@ emailed to a specified address.  To email one of the logs, enter one or
 more semi-colon delimited addresses into the appropriate text box then
 select the adjoining **Send log to:** button.
 
-![](Alert%20Logs/image001.png){border="0" width="639" height="400"}
+<figure><img src=".gitbook/assets/Alert Logs/image001.png" alt=""><figcaption></figcaption></figure>

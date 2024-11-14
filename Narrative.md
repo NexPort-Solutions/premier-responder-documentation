@@ -17,7 +17,7 @@ panel:
 
 -   Select the **Ctrl + R** keyboard shortcut.
 
-![](Narrative_files/image001.png){border="0" width="845" height="407"}
+<figure><img src=".gitbook/assets/Narrative_files/image001.png" alt=""><figcaption></figcaption></figure>
 
 Call-taker comments are entered in the textbox at the top of the remarks
 panel.  The **Narrative Length** setting on the [CAD Interface

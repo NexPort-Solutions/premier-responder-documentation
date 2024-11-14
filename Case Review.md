@@ -9,7 +9,7 @@ columns and entering criteria to search for.  To open **Case Review**
 tab, log into Premier Responder Supervisor and select the **Tools** -
 **Case Review** menu item.
 
-![](Case%20Review_files/image001.png){border="0" width="639"
+<figure><img src=".gitbook/assets/Case Review_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="639"
 height="400"}
 
 The working database appears on the center status bar panel at the
@@ -30,7 +30,7 @@ select the **X** or close button at the top right of the screen.  Upon
 connecting to a new database, the bottom right status bar panel displays
 the number of cases.
 
-![](Case%20Review_files/image006.png){border="0" width="639"
+<figure><img src=".gitbook/assets/Case Review_files/image006.png" alt=""><figcaption></figcaption></figure>{border="0" width="639"
 height="400"}
 
 A query is constructed by indicating the data columns to include in the
@@ -45,7 +45,7 @@ the default data columns.  Use the **Sample** drop down list to select a
 random percentage of the query results for QA purposes.  The **Sample**
 button defaults to 100 percent.
 
-![](Case%20Review_files/image002.png){border="0" width="639"
+<figure><img src=".gitbook/assets/Case Review_files/image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="639"
 height="400"}
 
 The **IS**, **FROM**, and **LIKE** option buttons are used to indicate
@@ -78,7 +78,7 @@ progress bar is visible, the operation can be aborted with the toolbar
 **Cancel** toolbar button.  All other controls are disabled while the
 query is running.
 
-![](Case%20Review_files/image003.png){border="0" width="639"
+<figure><img src=".gitbook/assets/Case Review_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="639"
 height="400"}
 
 The **QA Cases** tab opens with case records resulting from the **QA**
@@ -90,7 +90,7 @@ twice]{style="font-size: 12.0pt; font-family: Times New Roman"}.  Selecting
 the **X** button at the far right of the toolbar closes the **QA Cases**
 tab.
 
-![](Case%20Review_files/image004.png){border="0" width="639"
+<figure><img src=".gitbook/assets/Case Review_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0" width="639"
 height="400"}
 
 Selecting a case record on the **QA Cases** tab and then the **Open**
@@ -101,5 +101,5 @@ Cases** tab.  To return to the **QA Cases** tab, select the **X**
 toolbar button at the top right of the [**Case Report**
 tab](Case%20Reports.htm).
 
-![](Case%20Review_files/image005.png){border="0" width="639"
+<figure><img src=".gitbook/assets/Case Review_files/image005.png" alt=""><figcaption></figcaption></figure>{border="0" width="639"
 height="400"}

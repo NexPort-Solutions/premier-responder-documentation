@@ -43,7 +43,7 @@ Expectations and Premier Responder require version 18.7.4 version of the Microso
 ### Verify the versions of MSOLEDBSQL provider installed
 
 **Open up the 32 bit (x86) version of Powershell**\
-![](../.gitbook/assets/image.png)
+<figure><img src=".gitbook/assets/../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Paste in the following script:**
 

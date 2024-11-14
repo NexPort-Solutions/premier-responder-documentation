@@ -2,7 +2,7 @@
   **Priority Categories Editor**
   --------------------------------
 
-[Edit Priority Categories Tab]{.underline}
+# Edit Priority Categories Tab
 
 Priority categories represent the different levels of urgency used when
 dispatching units to the scene of an emergency.  They are entered on the
@@ -15,10 +15,10 @@ Note that editing is enabled for priority categories other than
 medical.  Changes to the medical priority categories require the
 approval of the local medical director.
 
-![](Priority%20Categories%20Editor/Image001.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Priority Categories Editor/Image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="207"}
 
-[Indicating The Call Type]{.underline}
+# Indicating The Call Type
 
 Before priority categories can be entered, a selection must first be
 made from the **Select** listbox, located on the Call Types sub tab. 
@@ -27,10 +27,10 @@ into the **Priority Categories** list.  Additionally, the **New**
 button, showing an image of a blank sheet of paper on the face, is
 enabled.
 
-![](Priority%20Categories%20Editor/Image002.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Priority Categories Editor/Image002.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="294"}
 
-[Adding A Category]{.underline}
+# Adding A Category
 
 Use the **New** button to add another category.  The added category
 appears at the bottom of the list, is assigned the name **New
@@ -38,20 +38,20 @@ Category**, and is automatically selected.  Once a category has been
 selected, the other buttons on the window become enabled.  The selected
 category is shown highlighted in the list.
 
-![](Priority%20Categories%20Editor/Image003.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Priority Categories Editor/Image003.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="236"}
 
-[Changing The Name]{.underline}
+# Changing The Name
 
 To change the name of a category, select the text in the **Priority
 Name** text box located to the right of the **Select** listbox.  Changes
 made to the name automatically appear in the Select listbox and are
 applied upon clicking the Save button located at the top of the window. 
 
-![](Priority%20Categories%20Editor/Image004.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Priority Categories Editor/Image004.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="230"}
 
-[Ordering The Categories]{.underline}
+# Ordering The Categories
 
 The order in which the categories appear in the **Select** listbox is
 the order they will  appear on the [Priority tab](Priorities.htm) of the
@@ -63,7 +63,7 @@ Use the down arrow button to move a priority down in the list.  The
 buttons affect the selected category and stay enabled as long as it has
 not reached its limit of movement.
 
-[Assigning A Dispatch Code]{.underline}
+# Assigning A Dispatch Code
 
 When a category is selected in the **Select** listbox, its code appears
 in the box labeled **Dispatch Code** .  If not empty, the code is
@@ -76,10 +76,10 @@ located to the right of the **Select** listbox, and just below the
 **Save** button. To clear the code, highlight the text and press the
 delete button on the keyboard, then click the Save button.
 
-![](Priority%20Categories%20Editor/Image005.png){border="0" width="655"
+<figure><img src=".gitbook/assets/Priority Categories Editor/Image005.png" alt=""><figcaption></figcaption></figure>{border="0" width="655"
 height="235"}
 
-[Removing A Category]{.underline}
+# Removing A Category
 
 To remove a category, select it in the **Select** listbox and then click
 the **Delete** button.  It is the button with an image of a red X on the

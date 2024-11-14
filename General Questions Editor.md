@@ -2,7 +2,7 @@
   **Universal Questions Editor Controls**
   -----------------------------------------
 
-[Editing Universal Questions]{.underline}
+# Editing Universal Questions
 
 The **Universal Questions** editing functionality of the **Call Types**
 tab is used to author the question sets associated with each of the call
@@ -11,10 +11,10 @@ select a **Call Type** on the Call Types sub tab, then select the
 adjacent **Universal Questions** sub tab within **Premier Responder
 Administrator**.
 
-![](General%20Questions%20Editor_files/image001.png){border="0"
+<figure><img src=".gitbook/assets/General Questions Editor_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}
 
-[Universal Questions Editor Description]{.underline}
+# Universal Questions Editor Description
 
 The **Call Types** tab can be used to expose the **Universal Questions**
 editing controls in the following manner:
@@ -29,7 +29,7 @@ editing controls in the following manner:
     and, for those universal questions that have them, fills them with
     the list item details.
 
-[Selecting A Question Set]{.underline}
+# Selecting A Question Set
 
 To edit the universal questions for one of the call types, make a
 selection from the **Call Types** sub tab **Select** list box.  The
@@ -37,10 +37,10 @@ associated question set loads into the **Question** edit screen of the
 **Universal Questions** editor.  Note that, for liability reasons, only
 limited editing of the medical questions is allowed.
 
-![](General%20Questions%20Editor_files/image003.png){border="0"
+<figure><img src=".gitbook/assets/General Questions Editor_files/image003.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="297" height="171"}
 
-[Changing the Universal Questions]{.underline}
+# Changing the Universal Questions
 
 The **Universal Questions** manipulation buttons are used to add,
 delete, order, and save modifications made to the Universal Questions. 
@@ -64,14 +64,14 @@ The universal question manipulation buttons are used as follows:
 -   The **Down** button moves the question down the list.  When the
     question reaches the bottom of the list the button is disabled.
 
-[Editing A Question]{.underline}
+# Editing A Question
 
 The **Question** edit screen of the **Universal Questions** editor
 contains question related edit fields.  On the **List Items** edit
 screen are edit fields used to enter information for list box style
 questions.
 
-![](General%20Questions%20Editor_files/image004.png){border="0"
+<figure><img src=".gitbook/assets/General Questions Editor_files/image004.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="441" height="338"}
 
 The **Question** editing controls consist of the following:
@@ -81,7 +81,7 @@ The **Question** editing controls consist of the following:
     down lists are used to change the font and color of the selected
     block of text.  To set or clear bold, italic, or underline font
     style for the selected block of text, use the **B**, *I*, and
-    [U]{.underline} buttons.
+    # U buttons.
 -   The **Align** selection indicates if the question text is to be
     centered,  left or right justified.
 -   The **Type** selection determines the style of the answer box and
@@ -103,7 +103,7 @@ The **Question** editing controls consist of the following:
     Premier Responder Calltaker text and control items that initiate an
     action when an entry is made.
 
-[Links Attached to Questions]{.underline}
+# Links Attached to Questions
 
 Links attached to questions affect the behavior of Premier Responder
 when an entry is made during a call.[  An action is initiated when any
@@ -113,7 +113,7 @@ button is clicked, a pop-up menu appears listing the available links. 
 Click on a link to attach it to the question.  An attached link is
 indicated by a check mark next to it.
 
-![](General%20Questions%20Editor_files/image005.png){border="0"
+<figure><img src=".gitbook/assets/General Questions Editor_files/image005.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="386" height="209"}
 
 The resulting actions initiated by the different link types are as
@@ -130,7 +130,7 @@ follows:
     when a question is activated/deactivated, all associated questions
     are also activated/deactivated.
 
-[Question Types]{.underline}
+# Question Types
 
 The **Type** property determines the style of the answer box and special
 functionality of associated with the question.  The styles and
@@ -177,13 +177,13 @@ functionality assigned to the different question types are as follows:
 -   **None** hides the answer box so that only the question text
     appears.
 
-[List Items]{.underline}
+# List Items
 
 The **List Items** section of the **Universal Questions sub tab** is
 enabled only for **List Box**, **Guide Card**, and **Text & List** style
 questions.
 
-![](General%20Questions%20Editor_files/image007.png){border="0"
+<figure><img src=".gitbook/assets/General Questions Editor_files/image007.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="627" height="367"}
 
 Located within the **List Items** section are the following controls:
@@ -201,7 +201,7 @@ Located within the **List Items** section are the following controls:
     substitution text for the CAD narrative and [Short
     Report](Short%20Report.htm) (respectively).
 
-[Managing List Items]{.underline}
+# Managing List Items
 
 There are four graphical buttons located within the **List Items**
 section of the **Universal Questions sub tab**.  These are used to add,
@@ -212,7 +212,7 @@ a new generic list item.  Next, enter the item text in the
 **Description** text box.  The new item\'s text should update and be
 present in the **Select** listbox.
 
-![](General%20Questions%20Editor_files/image008.png){border="0"
+<figure><img src=".gitbook/assets/General Questions Editor_files/image008.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="436" height="121"}
 
 An existing list item can be edited by first selecting it in the list
@@ -220,7 +220,7 @@ and then supplying alternate text in the **Description** text box. 
 Modifications to the list item text should be immediately visible in the
 **Select** listbox.
 
-![](General%20Questions%20Editor_files/image009.png){border="0"
+<figure><img src=".gitbook/assets/General Questions Editor_files/image009.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="441" height="119"}
 
 To delete a list item, first select it and then click the **Delete**
@@ -229,7 +229,7 @@ arranged in the list using the arrow buttons.  Use the **Up** button to
 move the selected item up one position in the list.  The **Down** button
 moves the selected item down one position in the list.
 
-[Links Attached to List Items]{.underline}
+# Links Attached to List Items
 
 Item links differ from question links in that they are attached to a
 selection so that the action is initiated when a selection is made with
@@ -239,10 +239,10 @@ item, first **Select** a list item from the listbox.  Next click on one
 of the **Links** buttons and select a link in the corresponding drop
 down list.  An attached link is indicated by a check mark next to it.
 
-![](General%20Questions%20Editor_files/image011.png){border="0"
+<figure><img src=".gitbook/assets/General Questions Editor_files/image011.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="453" height="433"}
 
-[Entering CAD Narrative]{.underline}
+# Entering CAD Narrative
 
 When Premier Responder is interfaced to a CAD system, Universal Question
 narratives are sent to CAD as entries are made.  The narrative is
@@ -252,17 +252,17 @@ It can include text for both the question plus the entry, the entry
 only, or an abbreviated job text.  The **Job Text** text box is used to
 enter an abbreviated narrative for a selection type entry. 
 
-![](General%20Questions%20Editor_files/image012.png){border="0"
+<figure><img src=".gitbook/assets/General Questions Editor_files/image012.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="430" height="144"}
 
-[Entering Report Text]{.underline}
+# Entering Report Text
 
 The **Report Text** text box is used to enter text that replaces the
 tags in the [Short Report](Short%20Report.htm).  If **Report Text** is
 not entered for an item, then the item\'s text is used as-is in the
 tags.
 
-[Saving Changes]{.underline}
+# Saving Changes
 
 After completing changes to a question, click the **Save** button at the
 top of the **Call Types** main tab.  Afterwards, you can either continue

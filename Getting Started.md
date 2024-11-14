@@ -2,7 +2,7 @@
   **Getting Started**
   ---------------------
 
-[Starting]{.underline}
+# Starting
 
 The Premier Responder
 [Administrator](Premier%20Responder%20Administrator.htm), [Call
@@ -17,17 +17,17 @@ screen appears.  Seen at the bottom of the splash screen are the
 customized guide card set and software version.  Once loading completes,
 the application\'s [main form](Main%20Form.htm) is displayed.
 
-![](Getting%20Started_files/image001.png){border="0" width="540"
+<figure><img src=".gitbook/assets/Getting Started_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="540"
 height="319"}
 
-[The Administrator Login]{.underline}
+# The Administrator Login
 
 An operator is required to [log in](Logging%20In.htm) to Premier
 Responder before being allowed to record a call or do any data entry. 
 The \"Administrator\" login has access to all Premier Responder
 applications.
 
-[Navigating Forms Using the Keyboard]{.underline}
+# Navigating Forms Using the Keyboard
 
 Before a control on a form can receive user input via the keyboard the
 form and control must have the focus.  Focus on a form is indicated by a
@@ -47,21 +47,21 @@ between tabs on a tab control, and between options within an option
 group.  A button with the focus can be activated using the Enter key. 
 Use the space bar to change the state of a check box.   
 
-[Menu Access Keys]{.underline}
+# Menu Access Keys
 
 Access keys for top-level and sub-level menu items are indicated by an
 underlined letter in the caption text.  To trigger the menu item action,
 depress the Alt key together with the access key.  Sub-level menus
 containing the menu item must be open to trigger the action.
 
-[Menu Keyboard Shortcuts]{.underline}
+# Menu Keyboard Shortcuts
 
 Shortcut keys may also be associated with sub-level menu items.  A
 shortcut key will be indicated to the right of the menu item caption. 
 Selecting the shortcut key triggers the menu item action regardless of
 the sub-level menu being open.
 
-[Getting Started Topics]{.underline}
+# Getting Started Topics
 
 -   [Main Form](Main%20Form.htm)
 -   [Logging In](Logging%20In.htm)

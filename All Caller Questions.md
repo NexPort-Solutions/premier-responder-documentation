@@ -2,7 +2,7 @@
   **Universal Questions**
   -------------------------
 
-[Universal Questions]{.underline}
+# Universal Questions
 
 On the **Universal Questions** tab, questions related to the default
 call type appear.   The **Default Call Type** setting  is found on the
@@ -18,10 +18,10 @@ loads its associated question set.  The questions appearing on the
 **Universal Questions** tab are created using the [Universal Questions
 Editor](General%20Questions%20Editor.htm).
 
-![](All%20Caller%20Questions_files/image001.png){border="0" width="697"
+<figure><img src=".gitbook/assets/All Caller Questions_files/image001.png" alt=""><figcaption></figcaption></figure>{border="0" width="697"
 height="501"}
 
-[Immediate Dispatch Button]{.underline}
+# Immediate Dispatch Button
 
 The **Immediate Dispatch** button is for extremely urgent calls such as
 unconscious and not breathing.  It is configurable using the settings on

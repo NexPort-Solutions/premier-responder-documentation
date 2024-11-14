@@ -19,5 +19,5 @@ tab displays the following settings:
 -   **Tab Order**: Order button receives focus when navigating questions
     on [all callers tab](All%20Caller%20Questions.htm) with keyboard.
 
-![](Immediate%20Dispatch%20Button%20Settings_files/Image001.png){border="0"
+<figure><img src=".gitbook/assets/Immediate Dispatch Button Settings_files/Image001.png" alt=""><figcaption></figcaption></figure>{border="0"
 width="655" height="504"}
