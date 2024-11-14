@@ -26,21 +26,17 @@ The configuration settings are grouped into the following categories:
 >
 > [Continue Case](Continue Case Settings.md)
 >
-> [General Question
-> Narrative](General Questions Narrative Settings.md)
+> [General Question> Narrative](General Questions Narrative Settings.md)
 >
 > [Guide Card Tabs](Guide Card Tabs Settings.md)
 >
-> [Immediate Dispatch
-> Button](Immediate Dispatch Button Settings.md)
+> [Immediate Dispatch> Button](Immediate Dispatch Button Settings.md)
 >
 > [Call Taker Menus](Main Window Menus Settings.md)
 >
-> [Medical Procedure
-> Buttons](Medical Procedure Buttons Settings.md)
+> [Medical Procedure> Buttons](Medical Procedure Buttons Settings.md)
 >
-> [Priority Entered
-> Notification](Priority Entered Notification Settings.md)
+> [Priority Entered> Notification](Priority Entered Notification Settings.md)
 >
 > [Vital Point Narrative](Vital Point Narrative Settings.md)
 >

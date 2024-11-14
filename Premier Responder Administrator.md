@@ -28,5 +28,4 @@ Administrator component are found in the following topics:
 -   [Installing Updates](Installing Updates.md)
 -   [Logging Out](Logging Out.md)
 
-[Return to Premier Responder Emergency Dispatch
-Software](Premier Responder.md)
+[Return to Premier Responder Emergency DispatchSoftware](Premier Responder.md)

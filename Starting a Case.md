@@ -14,8 +14,7 @@ indicates \"Waiting For Call\".  To start a new case, either:
 # Toolbar Buttons
 
 The toolbar buttons at the top of the active call window can be
-configured to appear or not using the settings found on the [Call Taker
-Buttons configuration screen](Call Buttons Settings.md).  Available
+configured to appear or not using the settings found on the [Call TakerButtons configuration screen](Call Buttons Settings.md).  Available
 buttons along with a brief description are as follows:
 
 -   [End](Ending a Case.md) - ends the call and closes the active
@@ -60,8 +59,7 @@ buttons along with a brief description are as follows:
 
 The tabs that appear on the active call window are used to select one of
 the available call taking screens.  These are configurable by call
-type.  The settings found on the [Guide Card Tabs configuration
-screen](Guide Card Tabs Settings.md) can be used to enter a
+type.  The settings found on the [Guide Card Tabs configurationscreen](Guide Card Tabs Settings.md) can be used to enter a
 custom label for each tab.  All but the first tab are optional and can
 be hidden.  The available call-taking screens along with a brief
 description are as follows:
@@ -92,8 +90,7 @@ description are as follows:
     screen containing background information that is related to the
     selected chief complaint
 
--   [Standard Operating
-    Procedures](Standard Operating Procedure.md) - procedures
+-   [Standard Operating    Procedures](Standard Operating Procedure.md) - procedures
     screen containing controls for viewing and completing SOP steps
     related to the selected chief complaint
 

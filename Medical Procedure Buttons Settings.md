@@ -7,8 +7,7 @@ Settings** list on the **Premier Responder Administrator - Settings**
 tab displays the following settings:
 
 -   **Category Buttons**: The category buttons are located on right
-    toolbar of the [Premier Responder Calltaker
-    window](Main Form.md).  With the checkbox checked, the button
+    toolbar of the [Premier Responder Calltaker    window](Main Form.md).  With the checkbox checked, the button
     appears with the label shown in the adjoining textbox.  Note that
     the category must have associated procedures or the button will not
     appear.

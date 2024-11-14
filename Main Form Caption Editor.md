@@ -18,7 +18,6 @@ To access the Window Caption Editor Controls:
 
 <figure><img src=".gitbook/assets/Main Form Caption Editor_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
-The configured caption, seen in the Window Caption text box, [appears on
-the active call window title bar](General Questions.md).  When taking
+The configured caption, seen in the Window Caption text box, [appears onthe active call window title bar](General Questions.md).  When taking
 a call, the values entered into the caption questions are updated on the
 title bar.

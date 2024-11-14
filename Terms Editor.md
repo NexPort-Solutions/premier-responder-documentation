@@ -10,8 +10,7 @@ Editor select the **Edit - Terms** menu item on the **Premier Responder
 Administrator** window.  The Terms Editor opens with the terms for the
 current call type loaded.  Make another selection from the **Call Type**
 drop down to see terms for the other call types.  The **New**, **Save**,
-and **Delete** menu buttons are disabled for [call types whose content
-is protected](Available Call Types Editor.md).  Use the **Close
+and **Delete** menu buttons are disabled for [call types whose contentis protected](Available Call Types Editor.md).  Use the **Close
 Editor** button to close the Terms Editor.
 
 <figure><img src=".gitbook/assets/Terms Editor_files/image001.png" alt=""><figcaption></figcaption></figure> 

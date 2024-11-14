@@ -5,8 +5,7 @@
 # Starting
 
 The Premier Responder
-[Administrator](Premier Responder Administrator.md), [Call
-Taker](Premier Responder Call-Taker.md), and
+[Administrator](Premier Responder Administrator.md), [CallTaker](Premier Responder Call-Taker.md), and
 [Supervisor](Premier Responder Supervisor.md) applications can be
 started either by double clicking the corresponding desktop icon or by
 selecting the related menu item in the **Start** menu **Premier
@@ -33,8 +32,7 @@ form and control must have the focus.  Focus on a form is indicated by a
 change in color of the title bar and the form will typically come to the
 front.  To move the focus between forms using the keyboard select the
 Alt key together with the Tab key.  Focus for a control is indicated by
-a cursor on or around the control.  The Yes/No check boxes on the [Vital
-Points Tab](Vital Points.md) of the active call window indicate focus
+a cursor on or around the control.  The Yes/No check boxes on the [VitalPoints Tab](Vital Points.md) of the active call window indicate focus
 with bold, underlined, and italicized text.  To move the focus between
 controls, use the Tab key to go forward and the Shift key together with
 the Tab key to go backward.  The Alt key will move the focus to the menu

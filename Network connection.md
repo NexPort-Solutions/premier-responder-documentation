@@ -23,5 +23,4 @@ Application Program Interface (API) and include:
 A normal or error response will be sent back to the CAD for each
 incoming command.  Also, premier responder events are sent to the CAD in
 response to call taker entries.  Further details of this communication
-are specified in the [Premier Responder
-API](APCO 911Adviser API.md) document.
+are specified in the [Premier ResponderAPI](APCO 911Adviser API.md) document.

@@ -21,9 +21,7 @@ the Material Name (yellow and blue pages), Guides (orange pages), and
 Isolation/Protective (green pages) sections.
 
 Finally, operator activity within the ERG window, including a time stamp
-for each action, is recoded in the Events section of the [case
-report](Case Reports.md).  Additionally, a narrative message to a CAD
+for each action, is recoded in the Events section of the [casereport](Case Reports.md).  Additionally, a narrative message to a CAD
 system that occurs upon selection of a material, guide or placard can be
-configured on the [SOP/ERG Narrative configuration
-screen](SOP-ERG Narrative Settings.md) within the Administrator
+configured on the [SOP/ERG Narrative configurationscreen](SOP-ERG Narrative Settings.md) within the Administrator
 application.

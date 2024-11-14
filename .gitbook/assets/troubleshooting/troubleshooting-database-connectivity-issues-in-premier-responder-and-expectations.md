@@ -65,5 +65,5 @@ foreach ($provider in [System.Data.OleDb.OleDbEnumerator]::GetRootEnumerator()) 
 SOURCES_NAME           :  MSOLEDBSQL
 ```
 
-**If the Provider does not show up then the 32bit (x86) version of the driver is not properly installed.** [**See the instructions for installing the MSOLEDBSQL provider**](troubleshooting-database-connectivity-issues-in-premier-responder-and-expectations.md#id-1-install-oledb-drivers-1)
+**If the Provider does not show up then the 32bit (x86) version of the driver is not properly installed.** [See the instructions for installing the MSOLEDBSQL provider](troubleshooting-database-connectivity-issues-in-premier-responder-and-expectations.md#id-1-install-oledb-drivers-1)
 

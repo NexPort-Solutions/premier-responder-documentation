@@ -40,7 +40,6 @@ area of responsibility are as follows:
     for entering calls and accessing online references.
 -   [Premier Responder Supervisor](Premier Responder Supervisor.md)
     for QA and generating reports.
--   [Premier Responder
-    Administrator](Premier Responder Administrator.md) for data
+-   [Premier Responder    Administrator](Premier Responder Administrator.md) for data
     entry and configuration.
 :::

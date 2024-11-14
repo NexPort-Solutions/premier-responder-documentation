@@ -5,8 +5,7 @@
 Located on the **Pre-Arrival** tab are the pre-arrival instructions for
 the selected [complaint](General Questions.md).  There are no entries
 to be made by the call-taker on the **Pre-Arrival** tab.  To change the
-label or hide the tab use the **Tab #5** settings on the [Guide Card
-Tabs configuration screen](Guide Card Tabs Settings.md).  The
+label or hide the tab use the **Tab #5** settings on the [Guide CardTabs configuration screen](Guide Card Tabs Settings.md).  The
 pre-arrival instructions are entered on the **Pre-Arrival** tab of the
 [Guide Card Editor](Guide Card Editor.md).
 

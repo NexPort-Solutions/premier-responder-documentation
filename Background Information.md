@@ -3,11 +3,9 @@
   ----------------------------
 
 The tab labeled **Background** shows general information for the
-specific emergency chosen in the [Universal
-Questions](General Questions.md).  There are no entries to be made by
+specific emergency chosen in the [UniversalQuestions](General Questions.md).  There are no entries to be made by
 the call-taker on the **Background** tab.  To change the label or hide
-the tab, use the settings for **Tab #7** on the [Guide Card Tabs
-configuration screen](Guide Card Tabs Settings.md).  The
+the tab, use the settings for **Tab #7** on the [Guide Card Tabsconfiguration screen](Guide Card Tabs Settings.md).  The
 background information is entered on the **Background** tab of the
 [Guide Card Editor](Guide Card Editor.md).
 
