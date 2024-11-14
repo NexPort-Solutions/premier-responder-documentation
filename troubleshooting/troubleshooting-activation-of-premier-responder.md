@@ -2,7 +2,7 @@
 
 ## Premier Responder Activate Online Button is Grayed Out (disabled)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Example of Disabled Activate Online Button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Example of Disabled Activate Online Button</p></figcaption></figure>
 
 Premier Responder uses an activation system called SoftWareKey. In order to activate systems online the local workstation with Premier Responder must have internet access and be able to "ping" the `secure.softwarekey.com` domain.&#x20;
 
@@ -21,7 +21,7 @@ ping secure.softwarekey.com
 
 The prompt should return something similar to this:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If the prompt returns an error please contact your system administrator. The following firewall rules may be required:
 

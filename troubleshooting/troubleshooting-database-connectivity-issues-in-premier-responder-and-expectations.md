@@ -4,23 +4,25 @@ This guide helps troubleshoot database connectivity problems in Premier Responde
 
 ### Prerequisite <a href="#id-1-install-oledb-drivers" id="id-1-install-oledb-drivers"></a>
 
-Installation of the [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist) is a prerequisite, and while the x64 installer for Microsoft OLE DB Driver installs both the 64-bit and 32-bit driver, the x64 installer for the Microsoft Visual C++ Redistributable doesn't install 32-bit binaries. You must install both the x86 and x64 versions of the C++ redistributable package to install the x64 OLE DB driver package.
+Installation of the [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist) is a prerequisite, and while the x64 installer for Microsoft OLE DB Driver installs both the 64-bit and 32-bit driver, the x64 installer for the Microsoft Visual C++ Redistributable doesn't install 32-bit binaries. You must install both the x86 and x64 versions of the C++ redistributable package to install the x64 OLE DB driver package. You may be asked to restart the computer.
 
-### 1. Install OLEDB Drivers <a href="#id-1-install-oledb-drivers" id="id-1-install-oledb-drivers"></a>
+### Install OLEDB Drivers <a href="#id-1-install-oledb-drivers" id="id-1-install-oledb-drivers"></a>
+
+Expectations and Premier Responder require version 19.0 or greater of the Microsoft OLE DB Driver for SQL Server (MSOLEDBSQL). Some Windows systems do not come with this driver already installed. Follow the directions below to install them.
 
 * Visit the official Microsoft download page: \
   **Full List of Versions:** [https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16](https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16)\
   **Latest Version Only:** [https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server?view=sql-server-ver16](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server?view=sql-server-ver16)
-* Download **both** the x86 and x64 versions of the appropriate OLEDB driver (e.g., MSOLEDBSQL v19).
+* Download **both** the x86 and x64 versions of the appropriate MSOLEDBSQL  driver&#x20;
 * Run both installers, following the on-screen prompts.
 
-### 2. Install .NET Framework <a href="#id-2-install-net-framework" id="id-2-install-net-framework"></a>
+### Install .NET Framework <a href="#id-2-install-net-framework" id="id-2-install-net-framework"></a>
 
 * Premier Responder may require specific .NET Framework versions.
 * Check your software documentation or system requirements for details.
 * Download and install the necessary x86 and/or x64 .NET Framework versions from the official Microsoft website.
 
-### 3. Restart Your System <a href="#id-3-restart-your-system" id="id-3-restart-your-system"></a>
+### Restart Your System <a href="#id-3-restart-your-system" id="id-3-restart-your-system"></a>
 
 * Restart your computer after driver installations to apply changes.
 
@@ -38,3 +40,31 @@ Installation of the [Microsoft Visual C++ Redistributable](https://learn.microso
 * **Contact Nexport Solutions Support:** For persistent issues, contact support for expert assistance.
 
 **Note:** Always refer to official Microsoft documentation and Premier Responder documentation for the most accurate information.
+
+### Verify the versions of MSOLEDBSQL provider installed
+
+**Open up the 32 bit (x86) version of Powershell**\
+![](../.gitbook/assets/image.png)
+
+**Paste in the following script:**
+
+{% code lineNumbers="true" fullWidth="true" %}
+```powershell
+foreach ($provider in [System.Data.OleDb.OleDbEnumerator]::GetRootEnumerator()) {
+    $properties = @{}
+    for ($i = 0; $i -lt $provider.FieldCount; $i++) {
+        $properties[$provider.GetName($i)] = $provider.GetValue($i)
+    }
+    [PSCustomObject]$properties
+}
+```
+{% endcode %}
+
+**When you run the script a list of 32bit providers will be displayed. In that list look for a provider with:**
+
+```powershell
+SOURCES_NAME           :  MSOLEDBSQL
+```
+
+**If the Provider does not show up then the 32bit (x86) version of the driver is not properly installed.** [**See the instructions for installing the MSOLEDBSQL provider**](troubleshooting-database-connectivity-issues-in-premier-responder-and-expectations.md#id-1-install-oledb-drivers-1)
+
