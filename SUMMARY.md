@@ -33,7 +33,7 @@
 * [Email Setup](<Email Setup.md>)
 * [Ending A Case](<Ending a Case.md>)
 * [Eventide Interface Settings](<Eventide Interface Settings.md>)
-* [Expectations Trainee Employee Tools And Utilities](expectations\_-trainee\_employee-tools-and-utilities.md)
+* [Expectations Trainee Employee Tools And Utilities](expectations-trainee-employee-tools-and-utilities.md)
 * [Expectations Evaluation Techniques](expectations-evaluation-techniques.md)
 * [Expectations Trainer Tools And Utilities](expectations-trainer-tools-and-utilities.md)
 * [General Questions Editor](<General Questions Editor.md>)
