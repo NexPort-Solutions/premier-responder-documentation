@@ -7,7 +7,7 @@
 Adding, deleting, and modifying contact information is accomplished via
 the "Contacts" tab.  Editing contacts is a function reserved for an
 administrator.  To bring up the "Contacts" tab with the editing buttons
-visible first [log in](Logging In.md) to the Premier Responder
+visible first [log in](<Logging In.md>) to the Premier Responder
 Administrator and then select **Edit -\> Contacts** menu item.
 
 <figure><img src=".gitbook/assets/Contacts Editor_files/image001.png" alt=""><figcaption></figcaption></figure> 

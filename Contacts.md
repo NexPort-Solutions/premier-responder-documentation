@@ -5,7 +5,7 @@
 # Contacts Form
 
 The **Contacts** window is used to view the information entered using
-the [Contacts Editor](Contacts Editor.md).  Contacts can be viewed
+the [Contacts Editor](<Contacts Editor.md>).  Contacts can be viewed
 either prior to or after login.  To open the **Contacts** window select
 the  **File - Contacts** menu item on the Premier Responder Calltaker
 main form.

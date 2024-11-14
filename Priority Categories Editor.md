@@ -7,7 +7,7 @@
 Priority categories represent the different levels of urgency used when
 dispatching units to the scene of an emergency.  They are entered on the
 **Priority Categories** edit screen of the administrator application and
-subsequently appear on the [Priority tab](Priorities.md) of the call
+subsequently appear on the [Priority tab](<Priorities.md>) of the call
 taker application active call window.  To access the **Priority
 Categories** edit screen, select the **Edit** - **Call Types** menu item
 on the Premier Responder Administrator main window after logging in. 

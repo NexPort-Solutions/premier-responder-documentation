@@ -6,7 +6,7 @@ Selecting **Guide Card Tabs** from the **Configuration Settings** list
 on the **Premier Responder** **Administrator - Settings** tab displays
 the following settings:
 
--   **Call Type**: Indicates the [call    type](All Caller Questions.md) for which the tab settings
+-   **Call Type**: Indicates the [call    type](<All Caller Questions.md>) for which the tab settings
     apply.
 -   **Visible**: When checked, indicated tab appears on active call
     window.

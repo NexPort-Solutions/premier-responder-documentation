@@ -23,9 +23,9 @@ case, refreshing the case list, and pre-selecting a call type.
 The functions that are available from the Premier Responder Call-Taker
 component are found in the following topics:
 
--   [Log In](Logging In.md)
--   [Log Out](Logging Out.md)
--   [References](Reference Tools.md)
--   [Entering Calls](Recording Calls.md)
+-   [Log In](<Logging In.md>)
+-   [Log Out](<Logging Out.md>)
+-   [References](<Reference Tools.md>)
+-   [Entering Calls](<Recording Calls.md>)
 
-[Return to Premier Responder Emergency DispatchSoftware](Premier Responder.md)
+[Return to Premier Responder Emergency DispatchSoftware](<Premier Responder.md>)

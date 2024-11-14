@@ -8,7 +8,7 @@ Each Premier Responder application main window includes basic
 functionality found in the **File**, **Font Size** and **Help** menus. 
 Within the **File** menu, the **Home** and **Exit** menu items are
 always enabled.  Their purpose is described in the paragraphs that
-follow.  The [Log In](Logging In.md) and [Log Out](Logging Out.md)
+follow.  The [Log In](<Logging In.md>) and [Log Out](<Logging Out.md>)
 menu items are conditionally enabled, depending on the current login
 state.  Their use is covered in help topics.
 

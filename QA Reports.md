@@ -3,7 +3,7 @@
   ----------------
 
 The **QA Reports** tool generates reports from call records stored in
-the cases archive.  It is accessed from the [Premier ResponderSupervisor](911Adviser Supervisor.md) main window with the **Tools -
+the cases archive.  It is accessed from the [Premier ResponderSupervisor](<911Adviser Supervisor.md>) main window with the **Tools -
 QA Reports** menu item.  From the QA Reports screen, reports can be
 configured, stored, recalled, and a PDF document containing resulting
 charts and statistics generated.

@@ -31,18 +31,18 @@ If the alert is related to a specific complaint, then include the general questi
 
 <figure><img src=".gitbook/assets/Alert Editor/image005.png" alt=""><figcaption></figcaption></figure>
 
-To see the search criteria previously entered, use the scroll bars inside the **Data Columns** text box.  When the query is completed, select the **OK** button to save the changes and close the Edit Alert Criteria window.  The alert conditions appear in the text box labeled **Alert Criteria**.  Next, select the **Add Alert** button to add it to the list on the [Alert Monitor](Alert Monitor.md) tab.
+To see the search criteria previously entered, use the scroll bars inside the **Data Columns** text box.  When the query is completed, select the **OK** button to save the changes and close the Edit Alert Criteria window.  The alert conditions appear in the text box labeled **Alert Criteria**.  Next, select the **Add Alert** button to add it to the list on the [Alert Monitor](<Alert Monitor.md>) tab.
 
 <figure><img src=".gitbook/assets/Alert Editor/image006.png" alt=""><figcaption></figcaption></figure>
 
 ## Updating Alerts
 
-Updating an alert is similar to adding an alert in that the alert information and conditions are entered in the same manner.  To modify an existing alert, either select the alert from the list on the [Alert Monitor](Alert Monitor.md) tab or from the drop down list on the left side of the **Alert Editor** tab.  This loads the alert information to the **Alert Editor** tab.  Make the necessary changes to the alert information or conditions and then select the **Update Alert** button.
+Updating an alert is similar to adding an alert in that the alert information and conditions are entered in the same manner.  To modify an existing alert, either select the alert from the list on the [Alert Monitor](<Alert Monitor.md>) tab or from the drop down list on the left side of the **Alert Editor** tab.  This loads the alert information to the **Alert Editor** tab.  Make the necessary changes to the alert information or conditions and then select the **Update Alert** button.
 
 ## Deleting Alerts
 
-To delete an existing alert, first select it from the list on the [Alert Monitor](Alert Monitor.md) tab or from the drop down list on the left side of the **Alert Editor** tab.  Next, on the Alert Editor tab, select the Delete Alert button.  The alert is deleted from the list on the [Alert Monitor](Alert Monitor.md) tab.
+To delete an existing alert, first select it from the list on the [Alert Monitor](<Alert Monitor.md>) tab or from the drop down list on the left side of the **Alert Editor** tab.  Next, on the Alert Editor tab, select the Delete Alert button.  The alert is deleted from the list on the [Alert Monitor](<Alert Monitor.md>) tab.
 
 ## Alert Database
 
-Alerts appearing on the [Alert Monitor](Alert Monitor.md) tab are stored in a Access database file located in the application folder.  To work from a different database select the **File/Open** menu item on the **Email Alert** tab.  This brings up and **Open** file dialog window.  Selecting an existing database from the list and then the **Open** button opens the specified database.
+Alerts appearing on the [Alert Monitor](<Alert Monitor.md>) tab are stored in a Access database file located in the application folder.  To work from a different database select the **File/Open** menu item on the **Email Alert** tab.  This brings up and **Open** file dialog window.  Selecting an existing database from the list and then the **Open** button opens the specified database.

@@ -5,7 +5,7 @@
 # The Key Questions Editor
 
 The Key Questions Editor is found on the **Key Questions** sub tab of
-the [Available Guide Cards Editor](Available Guide Cards Editor.md).  Seen on the left panel
+the [Available Guide Cards Editor](<Available Guide Cards Editor.md>).  Seen on the left panel
 of the status bar, at the bottom of the **Premier Responder
 Administrator** window, is the call type/guide card selection that was
 made on the **Available Guide Cards** sub tab.  Related key questions

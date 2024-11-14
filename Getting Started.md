@@ -5,22 +5,22 @@
 # Starting
 
 The Premier Responder
-[Administrator](Premier Responder Administrator.md), [CallTaker](Premier Responder Call-Taker.md), and
-[Supervisor](Premier Responder Supervisor.md) applications can be
+[Administrator](<Premier Responder Administrator.md>), [CallTaker](<Premier Responder Call-Taker.md>), and
+[Supervisor](<Premier Responder Supervisor.md>) applications can be
 started either by double clicking the corresponding desktop icon or by
 selecting the related menu item in the **Start** menu **Premier
 Responder** folder.  If the software has not been activated then the
-[activation dialog](Software Activation.md) will appear, otherwise
+[activation dialog](<Software Activation.md>) will appear, otherwise
 software initialization will begin and the Premier Responder splash
 screen appears.  Seen at the bottom of the splash screen are the
 customized guide card set and software version.  Once loading completes,
-the application\'s [main form](Main Form.md) is displayed.
+the application\'s [main form](<Main Form.md>) is displayed.
 
 <figure><img src=".gitbook/assets/Getting Started_files/image001.png" alt=""><figcaption></figcaption></figure> 
 
 # The Administrator Login
 
-An operator is required to [log in](Logging In.md) to Premier
+An operator is required to [log in](<Logging In.md>) to Premier
 Responder before being allowed to record a call or do any data entry. 
 The \"Administrator\" login has access to all Premier Responder
 applications.
@@ -32,7 +32,7 @@ form and control must have the focus.  Focus on a form is indicated by a
 change in color of the title bar and the form will typically come to the
 front.  To move the focus between forms using the keyboard select the
 Alt key together with the Tab key.  Focus for a control is indicated by
-a cursor on or around the control.  The Yes/No check boxes on the [VitalPoints Tab](Vital Points.md) of the active call window indicate focus
+a cursor on or around the control.  The Yes/No check boxes on the [VitalPoints Tab](<Vital Points.md>) of the active call window indicate focus
 with bold, underlined, and italicized text.  To move the focus between
 controls, use the Tab key to go forward and the Shift key together with
 the Tab key to go backward.  The Alt key will move the focus to the menu
@@ -60,6 +60,6 @@ the sub-level menu being open.
 
 # Getting Started Topics
 
--   [Main Form](Main Form.md)
--   [Logging In](Logging In.md)
--   [Logging Out](Logging Out.md)
+-   [Main Form](<Main Form.md>)
+-   [Logging In](<Logging In.md>)
+-   [Logging Out](<Logging Out.md>)

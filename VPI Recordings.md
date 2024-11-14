@@ -5,9 +5,9 @@
 The VPI **Call Recordings** screen requires the VPI Empower
 communications recording and quality improvement software and an
 authorization key or user account credentials which are configured in
-the [VPI Interface configurationscreen](VPI Interface Settings.md).  It is opened from either the
-[Premier Responder Supervisor](911Adviser Supervisor.md) main window
-with the **Tools - Call Recordings** menu item or from the [CaseReports](Case Reports.md) screen using the **Recordings** toolbar
+the [VPI Interface configurationscreen](<VPI Interface Settings.md>).  It is opened from either the
+[Premier Responder Supervisor](<911Adviser Supervisor.md>) main window
+with the **Tools - Call Recordings** menu item or from the [CaseReports](<Case Reports.md>) screen using the **Recordings** toolbar
 button.
 
 # Searching for Recordings

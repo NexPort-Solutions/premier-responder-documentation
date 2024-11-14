@@ -16,34 +16,34 @@ and select the **Configure -\> Settings** menu item.
 
 The configuration settings are grouped into the following categories:
 
-> [CAD Interface](Cad Interface Settings.md)
+> [CAD Interface](<Cad Interface Settings.md>)
 >
-> [Call Taker Buttons](Call Buttons Settings.md)
+> [Call Taker Buttons](<Call Buttons Settings.md>)
 >
-> [Call Scoring](Call Scoring Settings.md)
+> [Call Scoring](<Call Scoring Settings.md>)
 >
-> [Call-Taking Component](Call-Taking Component Settings.md)
+> [Call-Taking Component](<Call-Taking Component Settings.md>)
 >
-> [Continue Case](Continue Case Settings.md)
+> [Continue Case](<Continue Case Settings.md>)
 >
-> [General Question> Narrative](General Questions Narrative Settings.md)
+> [General Question> Narrative](<General Questions Narrative Settings.md>)
 >
-> [Guide Card Tabs](Guide Card Tabs Settings.md)
+> [Guide Card Tabs](<Guide Card Tabs Settings.md>)
 >
-> [Immediate Dispatch> Button](Immediate Dispatch Button Settings.md)
+> [Immediate Dispatch> Button](<Immediate Dispatch Button Settings.md>)
 >
-> [Call Taker Menus](Main Window Menus Settings.md)
+> [Call Taker Menus](<Main Window Menus Settings.md>)
 >
-> [Medical Procedure> Buttons](Medical Procedure Buttons Settings.md)
+> [Medical Procedure> Buttons](<Medical Procedure Buttons Settings.md>)
 >
-> [Priority Entered> Notification](Priority Entered Notification Settings.md)
+> [Priority Entered> Notification](<Priority Entered Notification Settings.md>)
 >
-> [Vital Point Narrative](Vital Point Narrative Settings.md)
+> [Vital Point Narrative](<Vital Point Narrative Settings.md>)
 >
-> [Status Bar Panels](Status Bar Panel Settings.md)
+> [Status Bar Panels](<Status Bar Panel Settings.md>)
 >
-> [SOP/ERG Narrative](SOP-ERG Narrative Settings.md)
+> [SOP/ERG Narrative](<SOP-ERG Narrative Settings.md>)
 >
-> [VPI Interface](VPI Interface Settings.md)
+> [VPI Interface](<VPI Interface Settings.md>)
 >
-> [Nice Interface](NICE Interface Settings.md)
+> [Nice Interface](<NICE Interface Settings.md>)

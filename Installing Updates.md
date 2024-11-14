@@ -10,5 +10,5 @@ network from a primary workstation via the update software and data
 screens found in the administrator application.  Remote installation of
 software and data file updates is covered in the following topics:
 
--   [Software Updates](Installing Software Updates.md)
--   [Data File Updates](Installing Data File Updates.md)
+-   [Software Updates](<Installing Software Updates.md>)
+-   [Data File Updates](<Installing Data File Updates.md>)

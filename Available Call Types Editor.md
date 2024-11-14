@@ -16,7 +16,7 @@ Administrator** window. 
 
 The **Up** and **Down** buttons are used to change the order of call
 types in the list.  This same order is also seen in the call type drop
-down list of the [All Callers Questions](All Caller Questions.md). 
+down list of the [All Callers Questions](<All Caller Questions.md>). 
 When selected, the highlighted call type moves one position in the
 indicated direction.
 
