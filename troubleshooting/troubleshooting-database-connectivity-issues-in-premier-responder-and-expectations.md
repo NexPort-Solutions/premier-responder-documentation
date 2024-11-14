@@ -8,12 +8,11 @@ Installation of the [Microsoft Visual C++ Redistributable](https://learn.microso
 
 ### Install OLEDB Drivers <a href="#id-1-install-oledb-drivers" id="id-1-install-oledb-drivers"></a>
 
-Expectations and Premier Responder require version 19.0 or greater of the Microsoft OLE DB Driver for SQL Server (MSOLEDBSQL). Some Windows systems do not come with this driver already installed. Follow the directions below to install them.
+Expectations and Premier Responder require version 18.7.4 version of the Microsoft OLE DB Driver for SQL Server (MSOLEDBSQL). Some Windows systems do not come with this driver already installed. Follow the directions below to install them.
 
 * Visit the official Microsoft download page: \
-  **Full List of Versions:** [https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16](https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16)\
-  **Latest Version Only:** [https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server?view=sql-server-ver16](https://learn.microsoft.com/en-us/sql/connect/oledb/download-oledb-driver-for-sql-server?view=sql-server-ver16)
-* Download **both** the x86 and x64 versions of the appropriate MSOLEDBSQL  driver&#x20;
+  [https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16#1874](https://learn.microsoft.com/en-us/sql/connect/oledb/release-notes-for-oledb-driver-for-sql-server?view=sql-server-ver16#1874)&#x20;
+* Download x64 version of the 18.7.4 MSOLEDBSQL  driver&#x20;
 * Run both installers, following the on-screen prompts.
 
 ### Install .NET Framework <a href="#id-2-install-net-framework" id="id-2-install-net-framework"></a>
