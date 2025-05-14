@@ -1,20 +1,20 @@
-# Introduction
-
 # Premier Responder API 3.0
-
-## Proprietary Information
-
-This document is considered Proprietary Information by Darwin Global, LLC, (dba Smart Horizons), and is subject to the dictates of the Non Disclosure Agreement signed by the recipient.
 
 ## Introduction
 
+### Proprietary Information
+
+This document is considered Proprietary Information by Darwin Global, LLC, (dba Smart Horizons), and is subject to the dictates of the Non Disclosure Agreement signed by the recipient.
+
+### Introduction
+
 The Premier Responder Application Program Interface (API) is built on top of the TCP/IP networking protocol. Premier Responder listens on a configurable port and a random port for a connection request from a computer aided dispatch (CAD) system. The configurable port defaults to 2021 and is specified on the CAD Interface configuration screen. The random port is obtainable with the Get Alternate Port API command. Version 3.0 of the Premier Responder API supports 51 externally callable commands, an error notification for each command, and 11 event types that Premier Responder can generate during the course of a call.
 
-## Message Structures
+### Message Structures
 
 API version 3.0 includes support for both byte array and XML structured messages. The default message structure consists of data values packed into a byte array with the values represented by one of seven possible data types. XML structured messages include a root element with one or more nested child elements serialized to a string. Receipt of an XML structured message enables XML structured events and acknowledgements from 9-1-1 Adviser.
 
-## Default Data Types
+### Default Data Types
 
 Data values contained in byte array structured messages consists of the following data types: byte, boolean, integer, long, date, string and list. The data types described in this section are used by the API.
 
@@ -41,7 +41,7 @@ _Lists_ are an array of associated string and integer data. They begin with a le
 
 where 00 02 signifies the length of the list, 00 7B is the item data for the first element, 00 02 is the length of the first string element, 61 62 is the first string, 01 C8 is the item data for the second element, 00 02 is the length of the second string element, and 63 64 is the second string.
 
-## Default Command Format
+### Default Command Format
 
 Premier Responder expects byte array structured commands to follow the same format. Any commands that do not follow the proper format wilt result in an error response from Premier Responder. Each command consists of a 16-bit op-code followed by any data that is associated with the command. Every command must have a footer consisting of two bytes of value 255.
 
@@ -55,7 +55,7 @@ where 00 07 is the command that Premier Responder is responding to, 01 is a bool
 
 All responses from Premier Responder begin with the op-code that is being responded to. This is followed by any data associated with the response. All responses are terminated with the previously mentioned footer.
 
-## XML Data Types
+### XML Data Types
 
 Text values contained in the nested message elements are converted to an appropriate data type for processing therefore must adhere to the following guidelines.
 
@@ -81,7 +81,7 @@ _List_ data is a numbered list with list items formatted as follows:
 
 > Item number + Tab + Item description + Carriage Return + Line Feed
 
-## XML Command Format
+### XML Command Format
 
 XML commands include a _Message_ root element, an _OpCode_ child element, and additional child elements as required. Using the previous Set Caller command example, the XML version would be as follows:
 
@@ -97,7 +97,7 @@ Again, Premier Responder will respond with a boolean true or false, depending on
 > \<Success>1\</Success>\
 > \</Message>
 
-## Op-codes
+### Op-codes
 
 As seen in Table 1, version 3.0 of the Premier Responder API has three specific categories into which communications between Premier Responder and external applications can fall.
 
@@ -113,7 +113,7 @@ All categories follow the prescribed command format. General op-codes are called
 
 Error messages are sent from Premier Responder whenever an error occurs. Events are sent when the user affects a change in Premier Responder.
 
-## Error Messages
+### Error Messages
 
 Error messages 1001-1999 correspond to op-codes called by external functions. Currently all error messages are sent in response to invalid data passed with an op-code. For example, if a program sends a boolean with op-code 7 instead of an integer, Premier Responder will respond with an error message 1007. Integers passed with Premier Responder indicate the number of errors encountered while extracting data from the byte-stream. A value of 0 indicates that the number of bytes of data was incorrect. As most extractions are aborted upon the first error, most values passed with error messages will be either 0 or 1. As an example, if Premier Responder encounters a data-length error while processing a Set Caller (op-code 7) command, it would respond with an error message as seen in the following byte-stream:
 
@@ -130,7 +130,7 @@ The numeric error code in XML structured error messages is contained in the _Err
 
 Note that Premier Responder can process multiple commands at the same time. If Premier Responder receives a byte-stream containing multiple messages, any of which contain an error, it will abort the processing of those commands that contain errors and respond with error messages for each erroneous command. Commands in the stream that don’t contain errors will be processed.
 
-## Premier Responder Events
+### Premier Responder Events
 
 Version 3.0 of the Premier Responder API includes the events listed in Table 2. The Associated Data column of the table includes the data type and XML element name for each data item.
 
@@ -178,7 +178,7 @@ The XML equivalent of the previous Caller Name changed event example would look 
 > \<CallerName>John\</CallerName>\
 > \</Message>
 
-## General Op-codes
+### General Op-codes
 
 Version 3.0 of the Premier Responder API supports 51 different op-codes which are defined in this section. Each definition contains the following:
 
@@ -191,7 +191,7 @@ Version 3.0 of the Premier Responder API supports 51 different op-codes which ar
 
 The commands that compose version 3.0 of the Premier Responder API are as follows:
 
-#### 1 Login
+**1 Login**
 
 Parameters:
 
@@ -205,7 +205,7 @@ Success as boolean
 
 Note: This command logs a user in. Premier Responder currently supports two access levels: 0 being a user and 1 being an administrator. Administrators have access to the SOP and User editing programs.
 
-#### 2 Logout
+**2 Logout**
 
 Parameters:
 
@@ -217,7 +217,7 @@ Success as boolean
 
 Note: This function logs the current user out.
 
-#### 3 Get User
+**3 Get User**
 
 Parameters:
 
@@ -231,7 +231,7 @@ AccessLevel as integer
 
 Note: This command retrieves the identity of the current Premier Responder user.
 
-#### 4 Begin Call
+**4 Begin Call**
 
 Parameters:
 
@@ -245,7 +245,7 @@ Success as boolean
 
 Note: This command initiates a new case. Sending an empty string for Case Number indicates that Premier Responder is to generate it internally. The command must specify the Start Date. Premier Responder will return a failure indication if it is already processing a case.
 
-#### 5 End Call
+**5 End Call**
 
 Parameters:
 
@@ -257,7 +257,7 @@ Success as boolean
 
 Note: This command terminates processing of the current case and saves the call information to the cases.mdb database file. The calling program must specify the End Date.
 
-#### 6 Get Report
+**6 Get Report**
 
 Parameters:
 
@@ -269,7 +269,7 @@ ReportContents as string
 
 Note: This command returns a string containing all of the information contained in the report. Use this command to retrieve responses to questions and SOP actions, etc.
 
-#### 7 Set Caller
+**7 Set Caller**
 
 Parameters:
 
@@ -281,7 +281,7 @@ _Success_ as boolean
 
 Note: This command sets the current caller’s name.
 
-#### 8 Get Caller
+**8 Get Caller**
 
 Parameters:
 
@@ -293,8 +293,9 @@ _CallerName_ as string
 
 Note: This command retrieves the current caller’s name.
 
-\
-#### 9 Set Location
+\\
+
+**9 Set Location**
 
 Parameters:
 
@@ -306,7 +307,7 @@ _Success_ as boolean
 
 Note: This command set the current location.
 
-#### 10 Get Location
+**10 Get Location**
 
 Parameters:
 
@@ -318,7 +319,7 @@ _Location_ as string
 
 Note: This command retrieves the current location.
 
-#### 11 Set Phone Number
+**11 Set Phone Number**
 
 Parameters:
 
@@ -330,8 +331,9 @@ _Success_ as boolean
 
 Note: This command sets the current phone number.
 
-\
-#### 12 Get Phone Number
+\\
+
+**12 Get Phone Number**
 
 Parameters:
 
@@ -343,7 +345,7 @@ _PhoneNumber_ as string
 
 Note: This command retrieves the current phone number.
 
-#### 13 Get Category List
+**13 Get Category List**
 
 Parameters:
 
@@ -355,7 +357,7 @@ _Categories_ as list
 
 Note: This command returns a list of emergency categories for which guide cards are present. The list consists of paired integer and string values which indicate the category ID and name. The default emergency categories are: 0 LE, 1 Med, and 2 Fire.
 
-#### 14 Set Category
+**14 Set Category**
 
 Parameters:
 
@@ -367,7 +369,7 @@ _Success_ as boolean
 
 Note: This command sets the emergency category of the currently active call. If a call is not currently active, then the default emergency category is set. Possible values for Category ID can be obtained using the Get Category List command.
 
-#### 15 Get Category
+**15 Get Category**
 
 Parameters:
 
@@ -379,8 +381,9 @@ _CategoryId_ as integer
 
 Note: This command returns the emergency category of the call appearing on the call-taker window. If a call does not appear on the call taker window, then the default emergency category is returned.
 
-\
-#### 16 Get Complaint List
+\\
+
+**16 Get Complaint List**
 
 Parameters:
 
@@ -392,7 +395,7 @@ _Complaints_ as list
 
 Note: This command returns all complaints that are available for the specified category. Each list item includes the complaint identification number together with a text description.
 
-#### 17 Set Complaint
+**17 Set Complaint**
 
 Parameters:
 
@@ -404,7 +407,7 @@ _Success_ as boolean
 
 Note: This command sets the complaint for the currently active call. If a call is not active then the command will fail. Possible values for Complaint ID can be obtained using the Get Complaint List command.
 
-#### 18 Get Complaint
+**18 Get Complaint**
 
 Parameters:
 
@@ -416,8 +419,9 @@ _ComplaintId_ as integer
 
 Note: This command returns the Complaint ID of the call appearing on the call-taker window. If a call does not appear on the call-taker window or a complaint has not been selected then 9999 is returned.
 
-\
-#### 19 Get Priority List
+\\
+
+**19 Get Priority List**
 
 Parameters:
 
@@ -431,7 +435,7 @@ _Symptoms_ as list
 
 Note: This command returns two lists. The first list contains the priorities for the emergency category of the currently active call. If a call is not active then the default emergency category is used. The second list contains the symptoms associated with the specified Complaint ID and previously determined emergency category. Each priority list item includes the priority level and optional priority code, if entered, otherwise the priority name. The symptom list items include priority level that the symptom is associated with and the symptom name.
 
-#### 20 Set Priority
+**20 Set Priority**
 
 Parameters:
 
@@ -443,7 +447,7 @@ _Success_ as boolean
 
 Note: This command is used to set the priority of the currently active call. The Symptom parameter can either be a symptom name, a priority name, or optional priority code. If a call is not active or the specified Symptom parameter is invalid then the command will fail.
 
-#### 21 Get Priority
+**21 Get Priority**
 
 Parameters:
 
@@ -455,7 +459,7 @@ _Symptom_ as string
 
 Note: Use this command to retrieve the optional priority code for the node selected on the priority tab of the Premier Responder active call window. If the priority code was not entered then the node text is returned instead. The node text may indicate either a priority or symptom name. If a call is not active or a node has not been selected then an empty string is returned.
 
-#### 22 View Tab
+**22 View Tab**
 
 Parameters:
 
@@ -467,7 +471,7 @@ _Success_ as boolean
 
 Note: The active call window currently includes 9 tabs which are numbered from 0 to 8. Each tab is configurable by call type with a custom label. All but the All Caller's Interrogation tab can be hidden. Tabs 0 to 2 are specialized and contain the all caller's interrogation questions, vital point questions and priorities. Tabs 3 to 6 are for viewing any rich text content such as pre-arrival instructions, call-taker actions, dispatcher actions or background information. Tabs 7 and 8 are also specialized and are for viewing the short report and standard operating procedures. The return value will indicate success if the specified tab is valid and is not hidden.
 
-#### 23 Get Tab
+**23 Get Tab**
 
 Parameters:
 
@@ -490,8 +494,9 @@ _TabId_ as byte where:
 
 Note: Use this command to retrieve the currently viewed tab.
 
-\
-#### 24 SOP Get Procedure List
+\\
+
+**24 SOP Get Procedure List**
 
 Parameters:
 
@@ -503,7 +508,7 @@ _ProcedureList_ as list
 
 Note: This command returns a list of all available SOPs. SOPs are referred to by their associated data in the returned list.
 
-#### 25 SOP Set Procedure
+**25 SOP Set Procedure**
 
 Parameters:
 
@@ -515,7 +520,7 @@ _Success_ as Boolean
 
 Note: Use this command to set the current SOP.
 
-#### 26 SOP Get Procedure
+**26 SOP Get Procedure**
 
 Parameters:
 
@@ -527,7 +532,7 @@ _ProcedureId_ as integer
 
 Note: Use this command to retrieve the current SOP procedure that is being viewed.
 
-#### 27 Med Get Procedure List
+**27 Med Get Procedure List**
 
 Parameters:
 
@@ -561,7 +566,7 @@ _CategoryList6_ as list
 
 Note: This command returns a name and list for each category of the medical instructions, these being: CPR, Childbirth, Obstructed Airway, and Airway Control. The list data items include a procedure id and a procedure name.
 
-#### 28 Med Set Procedure
+**28 Med Set Procedure**
 
 Parameters:
 
@@ -573,7 +578,7 @@ _Success_ as boolean
 
 Note: This command works only after the window has been displayed, otherwise a boolean false is returned. Use this function to set the current medical procedure.
 
-#### 29 Med Get Procedure
+**29 Med Get Procedure**
 
 Parameters:
 
@@ -585,7 +590,7 @@ _ProcedureId_ as integer
 
 Note: Use this command to retrieve the currently viewed medical procedure. A return value of zero indicates that no procedure is currently being viewed.
 
-#### 30 Med Set Window
+**30 Med Set Window**
 
 Parameters:
 
@@ -601,7 +606,7 @@ _Success_ as boolean
 
 Note: The Top and Left units are given in twips. Passing 0 for either indicates to keep the current value for that parameter. Use this command to show, hide, or position the medical Instructions window. A call must be active in order to obtain a successful result.
 
-#### 31 ERG Set Window
+**31 ERG Set Window**
 
 Parameters:
 
@@ -617,7 +622,7 @@ _Success_ as boolean
 
 Note: The Top and Left units are given in twips. Passing 0 for either indicates to keep the current value for that parameter. Use this command to show, hide, or position the ERG window. A call must be active in order to obtain a successful result.
 
-#### 32 Set Main Window
+**32 Set Main Window**
 
 Parameters
 
@@ -633,7 +638,7 @@ _Success_ as boolean
 
 Note: The Top and Left units are given in twips. Passing 0 for either indicates to keep the current value for that parameter otherwise they are used to reposition the Premier Responder main window. The Wrapped flag has no effect and serves only as a place holder for backward compatibility with existing interfaces.
 
-#### 33 Lock Interface
+**33 Lock Interface**
 
 Parameters:
 
@@ -645,7 +650,7 @@ _Success_ as boolean
 
 Note: This command disables the Login/Logout and Begin/End Call features of the Premier Responder user interface.
 
-#### 34 Shutdown
+**34 Shutdown**
 
 Parameters:
 
@@ -657,7 +662,7 @@ _Success_ as boolean
 
 Note: This command is used to terminate Premier Responder. It is not guaranteed to return a value.
 
-#### 35 Get Case Number
+**35 Get Case Number**
 
 Parameters:
 
@@ -669,7 +674,7 @@ _CaseNumber_ as string
 
 Note: This command retrieves the current Case Number.
 
-#### 36 Get Complaint Name
+**36 Get Complaint Name**
 
 Parameters:
 
@@ -681,7 +686,7 @@ _ComplaintName_ as string
 
 Note: This command retrieves the current Complaint.
 
-#### 37 Get Priority Symptom
+**37 Get Priority Symptom**
 
 Parameters:
 
@@ -693,7 +698,7 @@ _Symptom_ as string
 
 Note: This command returns the selected symptom for the call in progress or, if waiting, for the previously completed call.
 
-#### 38 Get Actual Priority
+**38 Get Actual Priority**
 
 Parameters:
 
@@ -705,7 +710,7 @@ _Priority_ as string
 
 Note: This command returns the selected priority category for the call in progress or, if waiting, for the previously completed call.
 
-#### 39 Get Short Report
+**39 Get Short Report**
 
 Parameters:
 

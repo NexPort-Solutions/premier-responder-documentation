@@ -132,5 +132,4 @@
 
 ## Developer Tools & API
 
-* [Premier Responder API](developer-tools-and-api/premier-responder-api/README.md)
-  * [Introduction](developer-tools-and-api/premier-responder-api/introduction.md)
+* [Premier Responder API 3.0](developer-tools-and-api/introduction.md)
