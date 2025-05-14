@@ -1,7 +1,8 @@
-# Summary
+# Table of contents
 
 ## Introduction & Getting Started
-* [README](<README.md>)
+
+* [README](README.md)
 * [Premier Responder Introduction](<Premier Responder Introduction.md>)
 * [Getting Started](<Getting Started.md>)
 * [Logging In](<Logging In.md>)
@@ -11,6 +12,7 @@
 * [Network License](<Network License.md>)
 
 ## User Roles and Interfaces
+
 * [Premier Responder](<Premier Responder.md>)
   * [Call Taker](<Premier Responder Call-Taker.md>)
   * [Dispatcher Actions](<Dispatcher Actions.md>)
@@ -18,6 +20,7 @@
   * [Administrator](<Premier Responder Administrator.md>)
 
 ## Call Management
+
 * [Starting a Case](<Starting a Case.md>)
 * [Call-Taker Actions](<Call-Taker Actions.md>)
 * [Ending a Case](<Ending a Case.md>)
@@ -32,12 +35,14 @@
   * [Case Archive SQL](<Case Archive SQL.md>)
 
 ## Case Evaluation & Reports
+
 * [Case Eval](<Case Eval.md>)
 * [Case Review](<Case Review.md>)
 * [Case Reports](<Case Reports.md>)
 * [QA Reports](<QA Reports.md>)
 
 ## Questions, Narratives & Procedures
+
 * [General Questions](<General Questions.md>)
   * [General Questions Editor](<General Questions Editor.md>)
   * [General Questions Narrative Settings](<General Questions Narrative Settings.md>)
@@ -51,9 +56,10 @@
   * [SOP-ERG Narrative Settings](<SOP-ERG Narrative Settings.md>)
   * [Standard Operating Procedures Editor](<Standard Operating Procedures Editor.md>)
 * [Pre-Arrival Instructions](<Pre-Arrival Instructions.md>)
-* [Narrative](<Narrative.md>)
+* [Narrative](Narrative.md)
 
 ## Interface & Component Configuration
+
 * [Main Form](<Main Form.md>)
   * [Main Form Caption Editor](<Main Form Caption Editor.md>)
 * [Call Buttons Settings](<Call Buttons Settings.md>)
@@ -62,6 +68,7 @@
 * [Status Bar Panel Settings](<Status Bar Panel Settings.md>)
 
 ## Settings & Data Configuration
+
 * [Configuration Settings](<Configuration Settings.md>)
 * [Available Call Types Editor](<Available Call Types Editor.md>)
 * [Available Guide Cards Editor](<Available Guide Cards Editor.md>)
@@ -73,13 +80,14 @@
 * [Short Report](<Short Report.md>)
 * [Terms Editor](<Terms Editor.md>)
 * [Contacts Editor](<Contacts Editor.md>)
-* [Contacts](<Contacts.md>)
+* [Contacts](Contacts.md)
 * [Continue Case Settings](<Continue Case Settings.md>)
 * [Transfer Call Settings](<Transfer Call Settings.md>)
 * [Call Scoring Settings](<Call Scoring Settings.md>)
 
 ## System Tools & Maintenance
-* [System Administrator Tools And Utilities](<system-administrator-tools-and-utilities.md>)
+
+* [System Administrator Tools And Utilities](system-administrator-tools-and-utilities.md)
 * [Installing Software Updates](<Installing Software Updates.md>)
 * [Installing Data File Updates](<Installing Data File Updates.md>)
 * [Installing Updates](<Installing Updates.md>)
@@ -87,6 +95,7 @@
 * [Software Deactivation](<Software Deactivation.md>)
 
 ## Recording & Monitoring Integrations
+
 * [Call Recordings](<Call Recordings.md>)
 * [NICE Recordings](<NICE Recordings.md>)
   * [NICE Interface Settings](<NICE Interface Settings.md>)
@@ -95,6 +104,7 @@
 * [Eventide Interface Settings](<Eventide Interface Settings.md>)
 
 ## Alerts and Communication
+
 * [Alert Monitor](<Alert Monitor.md>)
 * [Alert Logs](<Alert Logs.md>)
 * [Alert Editor](<Alert Editor.md>)
@@ -102,6 +112,7 @@
 * [Email Setup](<Email Setup.md>)
 
 ## Reference & Support
+
 * [Background Information](<Background Information.md>)
 * [Medical Terms](<Medical Terms.md>)
 * [Reference Tools](<Reference Tools.md>)
@@ -109,13 +120,17 @@
 * [Miscellaneous Information](<Miscellaneous Information.md>)
 
 ## Training & Expectations
-* [Expectations Trainee Employee Tools And Utilities](<expectations-trainee-employee-tools-and-utilities.md>)
-* [Expectations Trainer Tools And Utilities](<expectations-trainer-tools-and-utilities.md>)
-* [Expectations Evaluation Techniques](<expectations-evaluation-techniques.md>)
+
+* [Expectations Trainee Employee Tools And Utilities](expectations-trainee-employee-tools-and-utilities.md)
+* [Expectations Trainer Tools And Utilities](expectations-trainer-tools-and-utilities.md)
+* [Expectations Evaluation Techniques](expectations-evaluation-techniques.md)
 
 ## Printing
-* [Printing](<Printing.md>)
+
+* [Printing](Printing.md)
 * [Printing Guide Cards](<Printing Guide Cards.md>)
 
 ## Developer Tools & API
-* [Premier Responder API](<Premier Responder API.md>)
+
+* [Premier Responder API](developer-tools-and-api/premier-responder-api/README.md)
+  * [Introduction](developer-tools-and-api/premier-responder-api/introduction.md)

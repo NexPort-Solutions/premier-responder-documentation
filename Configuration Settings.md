@@ -1,22 +1,24 @@
-  ----------------------------
-  **Configuration Settings**
-  ----------------------------
+# Configuration Settings
 
-In addition to supporting customized guide card content, the Premier
-Responder software can be further tailored to meet a customer\'s
-requirements using the configuration settings that are provided.  They
-affect both the appearance and behavior of the software.  The
-configuration settings are accessible via the **Settings** tab.  To
-bring up the **Settings** tab log into Premier Responder Administrator
-and select the **Configure -\> Settings** menu item.
+***
 
-<figure><img src=".gitbook/assets/Configuration Settings_files/Image001.png" alt=""><figcaption></figcaption></figure> 
+### **Configuration Settings**
 
-# Setting Categories
+In addition to supporting customized guide card content, the Premier\
+Responder software can be further tailored to meet a customer's\
+requirements using the configuration settings that are provided.  They\
+affect both the appearance and behavior of the software.  The\
+configuration settings are accessible via the **Settings** tab.  To\
+bring up the **Settings** tab log into Premier Responder Administrator\
+and select the **Configure -> Settings** menu item.
+
+<figure><img src=".gitbook/assets/Configuration Settings_files/Image001.png" alt=""><figcaption></figcaption></figure>
+
+## Setting Categories
 
 The configuration settings are grouped into the following categories:
 
-> [CAD Interface](<Cad Interface Settings.md>)
+> [CAD Interface](Cad%20Interface%20Settings.md)
 >
 > [Call Taker Buttons](<Call Buttons Settings.md>)
 >
@@ -32,7 +34,7 @@ The configuration settings are grouped into the following categories:
 >
 > [Immediate Dispatch> Button](<Immediate Dispatch Button Settings.md>)
 >
-> [Call Taker Menus](<Main Window Menus Settings.md>)
+> [Call Taker Menus](Main%20Window%20Menus%20Settings.md)
 >
 > [Medical Procedure> Buttons](<Medical Procedure Buttons Settings.md>)
 >
