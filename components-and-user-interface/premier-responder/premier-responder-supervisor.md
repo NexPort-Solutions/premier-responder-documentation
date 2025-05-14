@@ -1,4 +1,4 @@
-# Supervisor
+# components-and-user-interface/premier-responder/premier-responder-supervisor
 
 ***
 
@@ -7,7 +7,7 @@
 ## Premier Responder Supervisor Window
 
 The Premier Responder Supervisor main window consists of a menu bar and\
-status bar.  From the **Tools** sub menu the [EmailAlerts](<../../Email Alert.md>), [Case Review](<../../Case Review.md>), [OnlineStations](../../Online%20Stations.md) and [CallRecordings](<../../Call Recordings.md>) utilities are accessed.  These open\
+status bar.  From the **Tools** sub menu the [EmailAlerts](<../../Email Alert.md>), [Case Review](<../../Case Review.md>), [OnlineStations](../../Online%20Stations.md) and [CallRecordings](../../readme/premier-responder-supervisor/reviewing-calls/call-recordings/) utilities are accessed.  These open\
 on tabs within the main window.  The currently logged in user appears on\
 the left panel of the status bar.
 
@@ -24,4 +24,4 @@ Supervisor component are as follows:
 * [Monitoring Calls](<../../Monitoring Calls.md>)
 * [Logging Out](<../../Logging Out.md>)
 
-[Return to Premier Responder Emergency DispatchSoftware](./)
+[Return to Premier Responder Emergency DispatchSoftware](broken-reference)

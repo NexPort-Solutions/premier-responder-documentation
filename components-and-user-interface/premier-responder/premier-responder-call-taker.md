@@ -1,4 +1,4 @@
-# Call Taker
+# components-and-user-interface/premier-responder/premier-responder-call-taker
 
 ***
 
@@ -30,4 +30,4 @@ component are found in the following topics:
 * [References](<../../Reference Tools.md>)
 * [Entering Calls](<../../Recording Calls.md>)
 
-[Return to Premier Responder Emergency DispatchSoftware](./)
+[Return to Premier Responder Emergency DispatchSoftware](broken-reference)

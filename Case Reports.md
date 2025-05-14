@@ -11,7 +11,7 @@ window [**QA Cases** tab](<Case Review.md>).  On the **Case Report**\
 tab, the formatted case report appears in a text box with limited\
 editing functionality.  This is for review and evaluation purposes.&#x20;\
 Selecting the **Grade** toolbar button opens the [**Grade Call**tab](<Case Eval.md>) which is used to QA the call.  The **Recordings**\
-toolbar button is used to open the [CallRecordings](<Call Recordings.md>) tab, which requires the VPI Empower\
+toolbar button is used to open the [CallRecordings](readme/premier-responder-supervisor/reviewing-calls/call-recordings/) tab, which requires the VPI Empower\
 communications recording and quality improvement software.  To close the**Case Report** tab and return to the [**QA Cases**tab](<Case Review.md>), select the **Case Report** tab **File - Close**\
 menu item or the **X** toolbar button.
 

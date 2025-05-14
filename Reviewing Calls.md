@@ -11,5 +11,5 @@ cases archive:
 * [Case Review](<Case Review.md>)
 * [Case Reports](<Case Reports.md>)
 * [Case Evaluation](<Case Eval.md>)
-* [Call Recordings](<Call Recordings.md>)
+* [Call Recordings](readme/premier-responder-supervisor/reviewing-calls/call-recordings/)
 * [QA Reports](<QA Reports.md>)

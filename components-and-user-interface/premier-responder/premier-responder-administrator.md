@@ -1,4 +1,4 @@
-# Administrator
+# components-and-user-interface/premier-responder/premier-responder-administrator
 
 ***
 
@@ -30,4 +30,4 @@ Administrator component are found in the following topics:
 * [Installing Updates](<../../Installing Updates.md>)
 * [Logging Out](<../../Logging Out.md>)
 
-[Return to Premier Responder Emergency DispatchSoftware](./)
+[Return to Premier Responder Emergency DispatchSoftware](broken-reference)
