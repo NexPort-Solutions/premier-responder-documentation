@@ -1,7 +1,7 @@
 # Table of contents
 
-* [README](README.md)
-  * [Premier Responder Introduction](<Premier Responder Introduction.md>)
+* [Premier Responder Introduction](README.md)
+* [Premier Responder](<README (1).md>)
   * [Getting Started](<Getting Started.md>)
     * [Software Activation](<Software Activation.md>)
     * [Software Deactivation](<Software Deactivation.md>)
@@ -9,7 +9,7 @@
     * [Logging In](<Logging In.md>)
     * [Logging Out](<Logging Out.md>)
   * [Premier Responder Administrator](components-and-user-interface/premier-responder/premier-responder-administrator.md)
-	* [system-administrator-tools-and-utilities](system-administrator-tools-and-utilities.md)
+    * [system-administrator-tools-and-utilities](system-administrator-tools-and-utilities.md)
     * [Printing](Printing.md)
       * [Printing Guide Cards](<Printing Guide Cards.md>)
     * [Installing Updates](<Installing Updates.md>)
@@ -84,10 +84,10 @@
       * [Case Review](<Case Review.md>)
       * [Case Reports](<Case Reports.md>)
       * [Case Eval](<Case Eval.md>)
-		* [Expectations Evaluation Techniques](expectations-evaluation-techniques.md)
-			* [expectations-trainee-employee-tools-and-utilities](expectations-trainee-employee-tools-and-utilities.md)
-			* [expectations-trainer-tools-and-utilities](expectations-trainer-tools-and-utilities.md)
-		* [grading-a-call](grading-a-call.md)
+        * [Expectations Evaluation Techniques](expectations-evaluation-techniques.md)
+          * [expectations-trainee-employee-tools-and-utilities](expectations-trainee-employee-tools-and-utilities.md)
+          * [expectations-trainer-tools-and-utilities](expectations-trainer-tools-and-utilities.md)
+        * [grading-a-call](grading-a-call.md)
       * [Call Recordings](readme/premier-responder-supervisor/reviewing-calls/call-recordings/README.md)
         * [NICE Recordings](readme/premier-responder-supervisor/reviewing-calls/call-recordings/nice-recordings.md)
         * [VPI Recordings](readme/premier-responder-supervisor/reviewing-calls/call-recordings/vpi-recordings.md)
@@ -120,4 +120,3 @@
 * [case-archive-sql](case-archive-sql.md)
 * [case-archive](case-archive.md)
 * [case-reports](case-reports.md)
-
