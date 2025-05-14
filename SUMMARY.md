@@ -11,18 +11,18 @@
 * [Network Connection](<Network connection.md>)
 * [Network License](<Network License.md>)
 
-## User Roles and Interfaces
+## Components and User Interface
 
-* [Premier Responder](<Premier Responder.md>)
-  * [Call Taker](<Premier Responder Call-Taker.md>)
-  * [Dispatcher Actions](<Dispatcher Actions.md>)
-  * [Supervisor](<Premier Responder Supervisor.md>)
-  * [Administrator](<Premier Responder Administrator.md>)
+* [Premier Responder Components](components-and-user-interface/premier-responder/README.md)
+  * [Call Taker](components-and-user-interface/premier-responder/premier-responder-call-taker.md)
+  * [Supervisor](components-and-user-interface/premier-responder/premier-responder-supervisor.md)
+  * [Administrator](components-and-user-interface/premier-responder/premier-responder-administrator.md)
 
 ## Call Management
 
 * [Starting a Case](<Starting a Case.md>)
 * [Call-Taker Actions](<Call-Taker Actions.md>)
+* [Dispatcher Actions](call-management/dispatcher-actions.md)
 * [Ending a Case](<Ending a Case.md>)
 * [Update Case](<Update Case.md>)
 * [Archiving Calls](<Archiving Calls.md>)

@@ -67,7 +67,7 @@ description are as follows:
 * [Call Taker Actions](<Call-Taker Actions.md>) - information screen  \
   containing instructions for the call taker that are related to the  \
   selected chief complaint
-* [Dispatcher Actions](<Dispatcher Actions.md>) - information screen  \
+* [Dispatcher Actions](call-management/dispatcher-actions.md) - information screen  \
   containing instructions for the dispatcher that are related to the  \
   selected chief complaint
 * [Background Information](<Background Information.md>) - information  \

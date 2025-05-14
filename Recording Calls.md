@@ -20,7 +20,7 @@ call-taking process:
 * [Priorities](Priorities.md)
 * [Pre-Arrival Instructions](<Pre-Arrival Instructions.md>)
 * [Call Taker Actions](<Call-Taker Actions.md>)
-* [Dispatcher Actions](<Dispatcher Actions.md>)
+* [Dispatcher Actions](call-management/dispatcher-actions.md)
 * [Background Information](<Background Information.md>)
 * [Standard Operating Procedure](<Standard Operating Procedure.md>)
 * [Short Report](<Short Report.md>)

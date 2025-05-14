@@ -6,7 +6,7 @@
 
 ## Starting
 
-The Premier Responder[Administrator](<Premier Responder Administrator.md>), [CallTaker](<Premier Responder Call-Taker.md>), and[Supervisor](<Premier Responder Supervisor.md>) applications can be\
+The Premier Responder[Administrator](components-and-user-interface/premier-responder/premier-responder-administrator.md), [CallTaker](components-and-user-interface/premier-responder/premier-responder-call-taker.md), and[Supervisor](components-and-user-interface/premier-responder/premier-responder-supervisor.md) applications can be\
 started either by double clicking the corresponding desktop icon or by\
 selecting the related menu item in the **Start** menu **Premier**\
 **Responder** folder.  If the software has not been activated then the[activation dialog](<Software Activation.md>) will appear, otherwise\

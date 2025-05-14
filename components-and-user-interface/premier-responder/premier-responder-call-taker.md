@@ -18,16 +18,16 @@ the tool bar where the controls for those functions, that require quick\
 access are located. These functions include starting a call, viewing a\
 case, refreshing the case list, and pre-selecting a call type.
 
-<figure><img src=".gitbook/assets/Calltaker_files/image001.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Calltaker_files/image001.png" alt=""><figcaption></figcaption></figure>
 
 ## Premier Responder Call-taker Functions
 
 The functions that are available from the Premier Responder Call-Taker\
 component are found in the following topics:
 
-* [Log In](<Logging In.md>)
-* [Log Out](<Logging Out.md>)
-* [References](<Reference Tools.md>)
-* [Entering Calls](<Recording Calls.md>)
+* [Log In](<../../Logging In.md>)
+* [Log Out](<../../Logging Out.md>)
+* [References](<../../Reference Tools.md>)
+* [Entering Calls](<../../Recording Calls.md>)
 
-[Return to Premier Responder Emergency DispatchSoftware](<Premier Responder.md>)
+[Return to Premier Responder Emergency DispatchSoftware](./)
