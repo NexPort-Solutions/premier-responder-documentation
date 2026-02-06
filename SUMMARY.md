@@ -1,7 +1,6 @@
-# Table of contents
+# Summary
 
 * [Premier Responder Introduction](README.md)
-* [Premier Responder](README.md)
   * [Getting Started](<Getting Started.md>)
     * [Software Activation](<Software Activation.md>)
     * [Software Deactivation](<Software Deactivation.md>)
@@ -104,20 +103,4 @@
 * [Miscellaneous Information](developer/miscellaneous-information/README.md)
   * [Network connection](developer/miscellaneous-information/network-connection.md)
 
-## Files Not Yet in Summary
 
-* [alert-logs](alert-logs.md)
-* [alert-monitor](alert-monitor.md)
-* [all-caller-questions](all-caller-questions.md)
-* [archiving-calls](archiving-calls.md)
-* [available-call-types-editor](available-call-types-editor.md)
-* [available-guide-cards-editor](available-guide-cards-editor.md)
-* [background-information](background-information.md)
-* [cad-interface-settings](cad-interface-settings.md)
-* [call-buttons-settings](call-buttons-settings.md)
-* [call-scoring-settings](call-scoring-settings.md)
-* [case-archive-access](case-archive-access.md)
-* [case-archive-oracle](case-archive-oracle.md)
-* [case-archive-sql](case-archive-sql.md)
-* [case-archive](case-archive.md)
-* [case-reports](case-reports.md)
