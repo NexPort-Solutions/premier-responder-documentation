@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Premier Responder Introduction](README.md)
-* [Premier Responder](<README (1).md>)
+* [Premier Responder](README.md)
   * [Getting Started](<Getting Started.md>)
     * [Software Activation](<Software Activation.md>)
     * [Software Deactivation](<Software Deactivation.md>)
@@ -19,6 +19,7 @@
       * [User Manager](<User Manager.md>)
       * [Contacts Editor](<Contacts Editor.md>)
       * [Guide Card Editor](<Guide Card Editor.md>)
+      * [Document Files Manager](<Document Files Manager.md>)
       * [Vital Point Editor](<Vital Point Editor.md>)
       * [Available Guide Cards Editor](<Available Guide Cards Editor.md>)
       * [Priority Categories Editor](<Priority Categories Editor.md>)

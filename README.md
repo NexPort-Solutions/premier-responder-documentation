@@ -31,3 +31,13 @@ customize the software by providing the means to:
 * Enter terms & abbreviations, standard operating procedures, and  \
   contacts
 * Enable optional features through configuration settings
+
+## New Document Hyperlink Capability
+
+Administrator users can configure guide-card hyperlink actions to open supporting files by using the **Open_Document** action type.
+
+For setup and usage details, see:
+
+* [Document Files Manager](<Document Files Manager.md>)
+* [Guide Card Editor](<Guide Card Editor.md>)
+* [Call-Taker Actions](<Call-Taker Actions.md>)
