@@ -38,6 +38,7 @@ Administrator users can configure guide-card hyperlink actions to open supportin
 
 For setup and usage details, see:
 
+* [Hyperlinks](hyperlinks/README.md)
 * [Document Files Manager](<Document Files Manager.md>)
 * [Guide Card Editor](<Guide Card Editor.md>)
 * [Call-Taker Actions](<Call-Taker Actions.md>)

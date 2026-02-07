@@ -20,6 +20,8 @@ window.  When active, other Premier Responder windows are disabled.
 
 Guide card hyperlinks can now be configured to use the **Open_Document** action type.
 
+For complete action-type reference, see [Hyperlinks](hyperlinks/README.md).
+
 Use the [Document Files Manager](<Document Files Manager.md>) to:
 
 * Upload documents and organize folders.

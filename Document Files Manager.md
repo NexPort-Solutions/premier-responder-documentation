@@ -10,6 +10,8 @@ The **Document Files Manager** is used in **Premier Responder Administrator** to
 
 This feature adds document-based hyperlink actions to guide cards by introducing the **Open_Document** action type.
 
+For complete action-type reference, see [Hyperlinks](hyperlinks/README.md).
+
 It includes:
 
 * A document catalog (files + metadata).

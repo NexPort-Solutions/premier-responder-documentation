@@ -22,3 +22,7 @@ index finger pointing upward when hovering over a link  When clicked on,\
 a link performs an action such as opening a scripted procedure window or\
 changing the chief complaint.  Once clicked on, links appear with a\
 blue, bold, underlined font.
+
+See [Hyperlinks](hyperlinks/README.md) for the full action-type reference used by hyperlink actions.
+
+

@@ -23,4 +23,7 @@ link performs an action such as opening a scripted procedure window or\
 changing the chief complaint.  Once clicked on, links appear with a\
 blue, bold, underlined font.
 
+See [Hyperlinks](hyperlinks/README.md) for the full action-type reference used by hyperlink actions.
+
 Hyperlinks can also be configured to use **Open_Document** so a linked document opens for the call-taker when selected.  These links are configured in Administrator using the [Document Files Manager](<Document Files Manager.md>).
+

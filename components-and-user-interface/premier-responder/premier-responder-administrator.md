@@ -25,6 +25,7 @@ Administrator component are found in the following topics:
 * [Logging In](<../../Logging In.md>)
 * [Printing](../../Printing.md)
 * [Data Management](../../Data%20Management.md)
+* [Hyperlinks](../../hyperlinks/README.md)
 * [Configuration Settings](<../../Configuration Settings.md>)
 * [Call-Archiving](<../../Archiving Calls.md>)
 * [Installing Updates](<../../Installing Updates.md>)
