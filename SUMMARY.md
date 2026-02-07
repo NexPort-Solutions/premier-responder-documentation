@@ -8,7 +8,7 @@
     * [Logging In](<Logging In.md>)
     * [Logging Out](<Logging Out.md>)
   * [Premier Responder Administrator](components-and-user-interface/premier-responder/premier-responder-administrator.md)
-    * [system-administrator-tools-and-utilities](system-administrator-tools-and-utilities.md)
+    * [System Administrator Tools and Utilities](system-administrator-tools-and-utilities.md)
     * [Printing](Printing.md)
       * [Printing Guide Cards](<Printing Guide Cards.md>)
     * [Installing Updates](<Installing Updates.md>)

@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitBook Page + Summary"
+  short_description: "Create pages and keep SUMMARY.md GitBook-compliant"
+  default_prompt: "Use $gitbook-page-summary-maintenance to add or update docs pages and sync SUMMARY.md with GitBook standards."
