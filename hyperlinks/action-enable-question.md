@@ -2,21 +2,24 @@
 
 Action ID: **23**
 
-## Purpose
+## When to use
 
-Enables a question row.
+Use when clicking a hyperlink should re-enable a disabled General Question input.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Question index
-* Value2: not used
-* Value3: not used
+- **Question:** Select the question to enable.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The selected question answer control is enabled for entry.
+
+## Example Setup
+
+- Question: Callback Number
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

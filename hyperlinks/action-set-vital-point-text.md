@@ -2,21 +2,26 @@
 
 Action ID: **16**
 
-## Purpose
+## When to use
 
-Sets rich text content for a vital point.
+Use when clicking a hyperlink should replace a vital point prompt while the call is in progress.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Vital point index
-* Value2: RTF text payload
-* Value3: not used
+- **Vital Point:** Select the vital point whose prompt should change.
+- **Vital Point Text:** Enter or edit the replacement text.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The visible vital point prompt updates in the Vital Points panel immediately.
+
+## Example Setup
+
+- Vital Point: Bleeding Check
+- Vital Point Text: Check for severe bleeding now.
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

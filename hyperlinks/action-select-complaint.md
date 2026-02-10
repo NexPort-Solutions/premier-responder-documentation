@@ -2,21 +2,24 @@
 
 Action ID: **12**
 
-## Purpose
+## When to use
 
-Selects a chief complaint.
+Use when clicking a hyperlink should switch to a specific chief complaint.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Complaint identifier
-* Value2: not used
-* Value3: not used
+- **Chief Complaint:** Select the complaint to apply.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The current complaint selection changes to the selected chief complaint, and related guide-card/question flow updates.
+
+## Example Setup
+
+- Chief Complaint: Chest Pain
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

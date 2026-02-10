@@ -2,21 +2,28 @@
 
 Action ID: **9**
 
-## Purpose
+## When to use
 
-Sets an internal property value from a source.
+Use when clicking a hyperlink should update a call property value.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Property key
-* Value2: Source type
-* Value3: Source key or index
+- **Property:** Select the property to update.
+- **From:** Choose where the value comes from (property, question, action, vital point, narrative, control).
+- **Source (changes by From selection):** Select or enter the specific source value for the selected From type.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The selected property is updated from the source value and can be used by later actions/conditions.
+
+## Example Setup
+
+- Property: DispatchCode
+- From: question
+- Source Question: Primary Complaint
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

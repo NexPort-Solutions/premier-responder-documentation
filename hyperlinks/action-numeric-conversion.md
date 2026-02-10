@@ -2,21 +2,28 @@
 
 Action ID: **10**
 
-## Purpose
+## When to use
 
-Performs a numeric operation for a property value.
+Use when clicking a hyperlink should perform math on a property value.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Property key
-* Value2: Operation
-* Value3: Numeric value
+- **Property:** Select the numeric property to modify.
+- **Operation:** Choose add, subtract, multiply, or divide.
+- **Numeric Value:** Enter the numeric amount to apply.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The selected property value is recalculated using the chosen operation. Divide by zero is blocked in the editor.
+
+## Example Setup
+
+- Property: Score
+- Operation: add
+- Numeric Value: 5
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

@@ -2,21 +2,26 @@
 
 Action ID: **11**
 
-## Purpose
+## When to use
 
-Loads a medical procedure reference.
+Use when clicking a hyperlink should open a medical procedure.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Procedure identifier
-* Value2: not used
-* Value3: not used
+- **Medical Procedure:** Select the procedure to open.
+- **Step Number:** Optionally choose the starting step.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The selected procedure opens in the procedure viewer (or pre-arrival viewer for stepped pre-arrival workflows).
+
+## Example Setup
+
+- Medical Procedure: CPR Adult
+- Step Number: 1
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

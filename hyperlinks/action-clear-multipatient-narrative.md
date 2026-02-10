@@ -2,21 +2,24 @@
 
 Action ID: **27**
 
-## Purpose
+## When to use
 
-Clears multi-patient narrative context.
+Use when clicking a hyperlink should clear the multi-patient narrative area.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: not used
-* Value2: not used
-* Value3: not used
+- This action does not show editable fields in the action editor.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+Existing multi-patient narrative entries are cleared from the panel.
+
+## Example Setup
+
+- No field entries are required for this action.
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

@@ -2,21 +2,24 @@
 
 Action ID: **5**
 
-## Purpose
+## When to use
 
-Shows a vital point row in the active call workflow.
+Use when clicking a hyperlink should show a specific Vital Point.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Vital point index
-* Value2: not used
-* Value3: not used
+- **Vital Point:** Select the target vital point from the Vital Point list.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The target vital point becomes visible (including grouped follow-on vital points). Focus moves to the next answer control when available.
+
+## Example Setup
+
+- Vital Point: Airway Assessment
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

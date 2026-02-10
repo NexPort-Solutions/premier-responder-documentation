@@ -2,21 +2,24 @@
 
 Action ID: **24**
 
-## Purpose
+## When to use
 
-Disables a question row.
+Use when clicking a hyperlink should disable a General Question input.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Question index
-* Value2: not used
-* Value3: not used
+- **Question:** Select the question to disable.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The selected question answer control is disabled; call-taker cannot enter a value until re-enabled.
+
+## Example Setup
+
+- Question: Secondary Contact
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

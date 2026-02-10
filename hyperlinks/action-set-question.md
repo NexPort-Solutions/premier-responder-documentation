@@ -2,21 +2,28 @@
 
 Action ID: **3**
 
-## Purpose
+## When to use
 
-Sets a question response from another data source.
+Use when clicking a hyperlink should set a General Question answer automatically.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Target question index
-* Value2: Source type (for example property/question/action/vital point/narrative/control)
-* Value3: Source key or index
+- **Question:** Select the destination question to be filled.
+- **From:** Choose the source type (question, property, action, etc.).
+- **Source (changes by From selection):** Choose or enter the source value shown by the third field label (for example Source Question or Logical/Numeric/Text Value).
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The target question answer is populated from the selected source and processed as if the call-taker entered it.
+
+## Example Setup
+
+- Question: Dispatch Level
+- From: question
+- Source Question: Priority Prompt
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

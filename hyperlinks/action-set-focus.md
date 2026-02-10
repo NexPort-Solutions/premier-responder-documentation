@@ -2,21 +2,24 @@
 
 Action ID: **32**
 
-## Purpose
+## When to use
 
-Sets focus to a narrative/control context.
+Use when clicking a hyperlink should move focus to a narrative row.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Narrative identifier
-* Value2: not used
-* Value3: not used
+- **Narrative:** Select the narrative row to focus.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+Focus moves to the selected narrative row and then to its first tabbable control.
+
+## Example Setup
+
+- Narrative: Patient 1 Notes
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

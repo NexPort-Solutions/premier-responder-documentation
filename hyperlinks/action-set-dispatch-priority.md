@@ -2,21 +2,26 @@
 
 Action ID: **14**
 
-## Purpose
+## When to use
 
-Sets dispatch priority category/symptom values.
+Use when clicking a hyperlink should set dispatch priority immediately.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Priority category
-* Value2: optional symptom
-* Value3: not used
+- **Priority Category:** Select the priority category.
+- **Related Symptom (optional):** Optionally select a symptom tied to that category.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+Dispatch priority is updated to the selected category/symptom in the active call.
+
+## Example Setup
+
+- Priority Category: Delta
+- Related Symptom (optional): Not Breathing
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

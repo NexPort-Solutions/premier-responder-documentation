@@ -2,21 +2,24 @@
 
 Action ID: **26**
 
-## Purpose
+## When to use
 
-Loads multi-patient narrative context.
+Use when clicking a hyperlink should load the multi-patient narrative area.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: optional context
-* Value2: optional context
-* Value3: optional context
+- This action does not show editable fields in the action editor.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The multi-patient narrative panel is loaded for entry.
+
+## Example Setup
+
+- No field entries are required for this action.
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

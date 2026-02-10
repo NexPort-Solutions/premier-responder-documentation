@@ -2,21 +2,24 @@
 
 Action ID: **28**
 
-## Purpose
+## When to use
 
-Activates a narrative panel/context.
+Use when clicking a hyperlink should show a specific narrative row.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Narrative identifier
-* Value2: not used
-* Value3: not used
+- **Narrative:** Select the narrative to activate.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The selected narrative row becomes active and visible in the multi-patient panel.
+
+## Example Setup
+
+- Narrative: Patient 2 Notes
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

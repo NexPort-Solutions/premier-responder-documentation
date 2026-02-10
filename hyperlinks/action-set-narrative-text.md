@@ -2,21 +2,26 @@
 
 Action ID: **33**
 
-## Purpose
+## When to use
 
-Sets narrative rich text content.
+Use when clicking a hyperlink should update narrative prompt text.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Narrative identifier
-* Value2: RTF text payload
-* Value3: not used
+- **Narrative:** Select the narrative to update.
+- **Narrative Text:** Enter the new narrative prompt text.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The selected narrative prompt text updates in the multi-patient panel.
+
+## Example Setup
+
+- Narrative: Patient 1 Notes
+- Narrative Text: Document second patient vitals here.
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

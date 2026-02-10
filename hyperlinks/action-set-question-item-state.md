@@ -2,21 +2,28 @@
 
 Action ID: **21**
 
-## Purpose
+## When to use
 
-Sets enabled/disabled state for a question item.
+Use when clicking a hyperlink should enable or disable a specific item in a question list.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Question index
-* Value2: Selection index
-* Value3: State value
+- **Question:** Select the target question.
+- **Selection:** Select the answer choice to control.
+- **Item State:** Choose True/False to enable or disable the item.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The selected answer choice becomes enabled or disabled in the call-taker question control.
+
+## Example Setup
+
+- Question: Scene Safety
+- Selection: Unsafe Scene
+- Item State: False
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

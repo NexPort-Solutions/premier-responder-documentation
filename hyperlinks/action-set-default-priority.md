@@ -2,21 +2,26 @@
 
 Action ID: **20**
 
-## Purpose
+## When to use
 
-Sets the default priority category.
+Use when clicking a hyperlink should set the default priority context for the current call flow.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Priority category
-* Value2: not used
-* Value3: not used
+- **Priority Category:** Select the default priority category.
+- **Related Symptom (optional):** Optionally select a default symptom.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+Default priority values for the call are updated for downstream use.
+
+## Example Setup
+
+- Priority Category: Echo
+- Related Symptom (optional): Unknown
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

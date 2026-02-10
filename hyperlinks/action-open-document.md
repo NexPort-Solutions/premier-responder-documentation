@@ -2,23 +2,25 @@
 
 Action ID: **36**
 
-## Purpose
+## When to use
 
-Opens a managed document file by GUID.
+Use when clicking a hyperlink should open a managed document file for the call-taker.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Document GUID
-* Value2: not used
-* Value3: not used
+- **Document:** Use Select Document to choose a managed file. The field shows the document title.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
-* Use **Select Document** to choose a managed file; UI shows document title while the GUID is stored.
-* See [Document Files Manager](<../Document Files Manager.md>) for document management workflows.
+Premier Responder launches the selected document using the workstation default app. If the file is missing or launch fails, configured fallback document rules are applied; otherwise the call-taker sees FILE NOT FOUND.
+
+## Example Setup
+
+- Document: CPR Adult Quick Sheet.pdf
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+* [Document Files Manager](<../Document Files Manager.md>)
+

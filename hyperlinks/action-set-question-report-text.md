@@ -2,21 +2,28 @@
 
 Action ID: **18**
 
-## Purpose
+## When to use
 
-Sets question report text selection.
+Use when clicking a hyperlink should set report text for a specific question selection.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Question index
-* Value2: Selection index
-* Value3: not used
+- **Question:** Select the target question.
+- **Selection:** Select the question choice to update.
+- **Report Text:** Enter the report text for that choice.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The short-report text for the selected question item is updated and appears in report output.
+
+## Example Setup
+
+- Question: Breathing
+- Selection: Not Breathing
+- Report Text: Patient not breathing on arrival
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

@@ -2,21 +2,24 @@
 
 Action ID: **17**
 
-## Purpose
+## When to use
 
-Sends a narrative message payload.
+Use when clicking a hyperlink should send a narrative message event.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Narrative message text
-* Value2: not used
-* Value3: not used
+- **Narrative:** Enter the message text to send.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The message is sent through the CAD event channel used for narrative updates.
+
+## Example Setup
+
+- Narrative: CPR instructions started.
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

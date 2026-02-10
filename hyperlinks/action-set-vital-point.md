@@ -2,21 +2,28 @@
 
 Action ID: **7**
 
-## Purpose
+## When to use
 
-Sets a vital point response from another data source.
+Use when clicking a hyperlink should set a Vital Point answer automatically.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Target vital point index
-* Value2: Source type
-* Value3: Source key or index
+- **Vital Point:** Select the destination vital point to be filled.
+- **From:** Choose the source type (vital point, property, action).
+- **Source (changes by From selection):** Choose or enter the source value shown by the third field label.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The target vital point answer is populated from the selected source and processed as if entered by the call-taker.
+
+## Example Setup
+
+- Vital Point: Consciousness
+- From: action
+- Logical/Numeric/Text Value: YES
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

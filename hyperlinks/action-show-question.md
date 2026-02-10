@@ -2,21 +2,24 @@
 
 Action ID: **1**
 
-## Purpose
+## When to use
 
-Shows a question row in the active call workflow.
+Use when clicking a hyperlink should show a specific General Question.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Question index
-* Value2: not used
-* Value3: not used
+- **Question:** Select the target question from the Question list.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The target question becomes visible (including grouped follow-on questions). Focus moves to the next answer box when available.
+
+## Example Setup
+
+- Question: Breathing Status
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

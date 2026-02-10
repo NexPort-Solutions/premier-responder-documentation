@@ -2,21 +2,24 @@
 
 Action ID: **13**
 
-## Purpose
+## When to use
 
-Navigates to a specific tab in the active call UI.
+Use when clicking a hyperlink should move the call-taker to another tab.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Tab identifier
-* Value2: not used
-* Value3: not used
+- **Tab Name:** Select the destination tab from the available tab list.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The active call tab changes to the selected tab.
+
+## Example Setup
+
+- Tab Name: Pre-Arrival
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

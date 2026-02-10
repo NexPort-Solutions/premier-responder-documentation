@@ -2,21 +2,28 @@
 
 Action ID: **19**
 
-## Purpose
+## When to use
 
-Sets vital-point report text selection.
+Use when clicking a hyperlink should set report text for a specific vital point selection.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Vital point index
-* Value2: Selection index
-* Value3: not used
+- **Vital Point:** Select the target vital point.
+- **Selection:** Select the vital point choice to update.
+- **Report Text:** Enter the report text for that choice.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The short-report text for the selected vital point item is updated and appears in report output.
+
+## Example Setup
+
+- Vital Point: Consciousness
+- Selection: Unresponsive
+- Report Text: Unresponsive on contact
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

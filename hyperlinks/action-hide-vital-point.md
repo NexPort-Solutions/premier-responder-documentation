@@ -2,21 +2,24 @@
 
 Action ID: **6**
 
-## Purpose
+## When to use
 
-Hides a vital point row in the active call workflow.
+Use when clicking a hyperlink should hide a specific Vital Point.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Vital point index
-* Value2: not used
-* Value3: not used
+- **Vital Point:** Select the vital point to hide.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The target vital point is deactivated and removed from active entry flow. Grouped linked vital points are also deactivated.
+
+## Example Setup
+
+- Vital Point: Pediatric Branch
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

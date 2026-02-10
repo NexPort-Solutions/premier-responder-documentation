@@ -2,21 +2,24 @@
 
 Action ID: **34**
 
-## Purpose
+## When to use
 
-Executes actions configured on a narrative.
+Use when clicking a hyperlink should run actions configured on active narratives.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: optional context
-* Value2: optional context
-* Value3: optional context
+- This action does not show editable fields in the action editor.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+Actions for currently active narrative rows are executed.
+
+## Example Setup
+
+- No field entries are required for this action.
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

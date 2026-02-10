@@ -2,21 +2,24 @@
 
 Action ID: **8**
 
-## Purpose
+## When to use
 
-Refreshes vital-point rendering after updates.
+Use when clicking a hyperlink should re-run Vital Point action logic.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: not used
-* Value2: not used
-* Value3: not used
+- This action does not show editable fields in the action editor.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+All configured Vital Point actions are processed again for the current call state.
+
+## Example Setup
+
+- No field entries are required for this action.
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

@@ -2,21 +2,26 @@
 
 Action ID: **25**
 
-## Purpose
+## When to use
 
-Sets call type and complaint together.
+Use when clicking a hyperlink should change call type, and optionally complaint, in one action.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Call type name
-* Value2: Complaint identifier
-* Value3: not used
+- **Call Type:** Select the target call type.
+- **Complaint (optional):** Optionally select a complaint from that call type.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+Call type changes to the selected call type. If complaint is provided, complaint changes too.
+
+## Example Setup
+
+- Call Type: Medical Emergency
+- Complaint (optional): Breathing Problems
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

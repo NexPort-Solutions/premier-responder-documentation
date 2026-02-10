@@ -2,21 +2,24 @@
 
 Action ID: **2**
 
-## Purpose
+## When to use
 
-Hides a question row in the active call workflow.
+Use when clicking a hyperlink should hide a specific General Question.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Question index
-* Value2: not used
-* Value3: not used
+- **Question:** Select the question to hide from the Question list.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The target question is deactivated and removed from active entry flow. Grouped linked questions are also deactivated.
+
+## Example Setup
+
+- Question: Additional Caller Details
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

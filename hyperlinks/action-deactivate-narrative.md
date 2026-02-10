@@ -2,21 +2,24 @@
 
 Action ID: **29**
 
-## Purpose
+## When to use
 
-Deactivates a narrative panel/context.
+Use when clicking a hyperlink should remove a specific narrative row.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Narrative identifier
-* Value2: not used
-* Value3: not used
+- **Narrative:** Select the narrative to deactivate.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The selected narrative row is removed from the panel and its current answer is cleared.
+
+## Example Setup
+
+- Narrative: Patient 2 Notes
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

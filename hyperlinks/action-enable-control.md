@@ -2,21 +2,24 @@
 
 Action ID: **30**
 
-## Purpose
+## When to use
 
-Enables a control by control ID.
+Use when clicking a hyperlink should enable a specific narrative control.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Control ID
-* Value2: not used
-* Value3: not used
+- **Control ID:** Enter the control ID to enable.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The target narrative control is enabled for user interaction.
+
+## Example Setup
+
+- Control ID: txtAirwayStatus
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+

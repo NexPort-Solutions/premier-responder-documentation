@@ -2,21 +2,26 @@
 
 Action ID: **15**
 
-## Purpose
+## When to use
 
-Sets rich text content for a question.
+Use when clicking a hyperlink should replace a question prompt while the call is in progress.
 
-## Value fields
+## Fields In Action Editor
 
-* Value1: Question index
-* Value2: RTF text payload
-* Value3: not used
+- **Question:** Select the question whose prompt should change.
+- **Question Text:** Enter or edit the replacement text.
 
-## Editor notes
+## What The Call-Taker Sees
 
-* Configure this action in the hyperlink actions editor from **Guide Card Editor**.
+The visible question prompt updates in the General Questions panel immediately.
+
+## Example Setup
+
+- Question: CPR Prompt
+- Question Text: If not breathing normally, begin CPR now.
 
 ## Related
 
 * [Hyperlinks Overview](README.md)
 * [Guide Card Editor](<../Guide Card Editor.md>)
+
