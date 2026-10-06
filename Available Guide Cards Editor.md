@@ -1,5 +1,15 @@
 # Available Guide Cards Editor
 
+## Manage Cards Independently of Universal Questions
+
+In **Administrator > Edit > Guide Cards**, select a call type to view and manage its stored guide cards. You can create, edit, reorder, and delete cards even when none of that call type's Universal Questions has **Type = Guide Card**. Existing account permissions and call-type protection still apply.
+
+Guide cards also remain available as choices in Administrator's link, action, SOP, and report tools. Adding or removing a Guide Card question does not create or delete the cards themselves.
+
+To let Calltaker select these cards, open **Edit > Call Types**, select the call type, and configure a question on **Universal Questions** with **Type = Guide Card**. Its choices come from the cards you have prepared. A call type can also use Universal Questions alone; it does not have to use guide cards.
+
+See [Universal Questions](<All Caller Questions.md>) for the Calltaker workflow.
+
 ***
 
 ### **Available Guide Card Editor**

@@ -6,6 +6,10 @@
 
 ## Universal Questions
 
+A Universal Question with **Type = Guide Card** lets the call-taker select a guide card for the current call type. Selecting its answer loads that card's questions and instructions. Administrator can manage the underlying cards before this selector is configured.
+
+A call type may instead contain only other Universal Questions, such as text fields and lists. In that configuration, its questions remain usable, but its stored guide cards cannot be selected through the usual Calltaker guide-card selector. Creating cards in Administrator does not automatically add that selector.
+
 On the **Universal Questions** tab, questions related to the default\
 call type appear.   The **Default Call Type** setting  is found on the[Call-Taking Component configuration screen](<Call-Taking Component Settings.md>).  Included in the**Universal Question** are entries for emergency location, caller name,\
 phone number, and call type.  These can be entered remotely by CAD or\
